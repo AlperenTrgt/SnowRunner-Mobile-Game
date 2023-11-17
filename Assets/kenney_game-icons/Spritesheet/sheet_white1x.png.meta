@@ -1,0 +1,5734 @@
+fileFormatVersion: 2
+guid: ef1d93992d1383d428bc4aed3eb83396
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 317, y: 69, z: 689, w: 409}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sheet_white1x_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 468
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3a8978acee78345aabec24b240b10b
+      internalID: -2101500671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 473
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9308e2acc86ac42bfc4cce289e8e2c
+      internalID: 681081934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 472
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d36555217df29a41b35f152d8a46a24
+      internalID: 732669147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 490
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca740451bac52ae47a0ceff678876b5a
+      internalID: -655883749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 490
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9372afac4de07bd4e86e3cfa511f76b9
+      internalID: -1178750782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 468
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451629c1dc679524e8e8ccbe2ef2f48f
+      internalID: 584163293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 470
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4b673f269b50c4d962dc2fc4c8e7b3
+      internalID: -1924596503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 470
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81380e2ded9c38d47901c0ba88608d38
+      internalID: -2099245075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 471
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753dd239276d1f341b44edbb3b4a1ec5
+      internalID: 2109183703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 482
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3773b87785d692943a32649911e41d1f
+      internalID: 829522289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_10
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 468
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6707c019b284a0241b61a83dc041a045
+      internalID: -29389460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 474
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e5540f6a7b2e24c9af06f1cbb80431
+      internalID: 1270794188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 470
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8678572f9244848a6cf4c3f8345f1f
+      internalID: -1415015394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 468
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b796378703a19c46a8ed5b696c1b661
+      internalID: 142197536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 470
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d929358ed2c371741934751b98a59ada
+      internalID: -268608296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 420
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05561dca111cef4458e1bb080a9773e7
+      internalID: 154032840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 420
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f923b2f53ed43b4db1a3c439a6810a0
+      internalID: -424845774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 427
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44a1871cf7114345ba6cfcb1f8126a6
+      internalID: 1664269221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 420
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea954c8697292f4595476d6b9aa6e8c
+      internalID: 150569067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 421
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60af5d31d062bf241b6aad9d50203a2d
+      internalID: 833229147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 420
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5102f0c24b036d24d9c8642f0bcba910
+      internalID: -1716118660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 420
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed4b86ab2fb1ea48878949e784b1f94
+      internalID: 1261567305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44369cea73b305542a55a6cd2fbf9913
+      internalID: 1917913587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_23
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 421
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bda11c174fb1f48b63b0eec83ae706
+      internalID: -1208259648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 424
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083c698b0a637a344a66832311dffe3e
+      internalID: -801834715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 429
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76679fe5b8300be4eacce42eeb8aaba7
+      internalID: 471657720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_26
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 424
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20cf0784f0a048459d249749556019f
+      internalID: -794802880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_27
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 419
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e92259f6d8d9c4b87125e3be7ea593
+      internalID: -763082462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 414
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2eba48e32b42d4a9973c826b048afe
+      internalID: -1085534477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 370
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73d93504d4ae234ca5bbd54ec93f5f4
+      internalID: 2126072617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 369
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad01beef9ad1c8469b6b35e94afd947
+      internalID: 284975528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 367
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ac74507a7434f42b4f697503aeb192
+      internalID: 693143688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 370
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f205f51547a31c47a2c2f8d93b0390d
+      internalID: -2123429971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 370
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aff0cc5813cfb4cbc9e08587f81075
+      internalID: -1544935081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 370
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad71d77a4801014884b80b4ccb7199f
+      internalID: 490892883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_35
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 380
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07d0d927a4efbb4f92d303ce735987f
+      internalID: -909150690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 371
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd39c50cd89fcb43ac6643f7fca5026
+      internalID: 880254105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 366
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1bd3515f855164f81f4249d2ecb352
+      internalID: 403576572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_38
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 379
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee903256aaac2f548a063427b91ab163
+      internalID: 1032833871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 367
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b172c6e534478146a90971df32d8496
+      internalID: -392352383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_40
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 371
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3d9a6143c537a479ef71b7b9a2e71e
+      internalID: -714220013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_41
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 366
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e119f8ab1370f144db7494b2cfe5fb92
+      internalID: -1641236478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_42
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 366
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba27bb9a56d6b724baad9e552bfebd1f
+      internalID: -1482976409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_43
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 369
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372a9865a8cf4d9489e5a6afa7852634
+      internalID: 193729367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 322
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01abf8c28cfdad94ba59d36e1e6671d3
+      internalID: -1560540138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 322
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaa6939434cc154684ac66f79ef66de
+      internalID: 1001983471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 322
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80599f4d48fcb764db1f8ffafdcb9179
+      internalID: 10399250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_47
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 319
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38fd5b43c85d8d458e4de4a86182bbe
+      internalID: 1584284326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_48
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 318
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5423a9bd8a61045afbb53b47eca678
+      internalID: -1372159186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_49
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 320
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb1d6c01dd77e44790accf2bf775943
+      internalID: -1663870838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_50
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 318
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0423eb5244dd04c878421fd671b514
+      internalID: 1685793796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_51
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 318
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b60fde2cf011084583c7049e50261f0
+      internalID: -2066878026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_52
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 340
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84ae06f7e3aeef48961e2d75043c16b
+      internalID: 1179558112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 340
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a703e9d1b0ae740b27396a509484a0
+      internalID: -30758972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_54
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 329
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d328423078d400e4ebef9af2c9b3ed68
+      internalID: -1143621564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_55
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 331
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd09320baa3f91943af8d57629814c68
+      internalID: -784356010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_56
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 318
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bb0a144d4b02c4b877811aab0bad76
+      internalID: -1167326723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_57
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 318
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a089b24ebab4445bc0a7e034a6f841
+      internalID: -51574625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 320
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dd46a24ddac964288a8f3407c47f72
+      internalID: -1331220742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_59
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 320
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b1360df6e12a343b143df6edb2c0a9
+      internalID: -1642062706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_60
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 320
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceaf9c993388324b93031bf5fbbaa1c
+      internalID: 1486225670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_61
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 317
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09790aa985b56b42843fe731c57cad0
+      internalID: 1931767547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_62
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453c8e3e8d3ecdf42887cf469355c33f
+      internalID: 1941695663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_63
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 296
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d8e19e6d06da14997a6f616ce22887
+      internalID: 2033996616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_64
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 269
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a30eb8984c4324fa4f5c138406d9a5
+      internalID: 1559243313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 292
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac55f84c2193964f86ff36ac16e9817
+      internalID: 605221839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_66
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 268
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd8e5dc532af8647a858549b7978ca9
+      internalID: -42814984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_67
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 282
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed811dec0a90f64db54176bb0fc7ff9
+      internalID: -620415832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 268
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4093be17d4ca4064ba5035c1dcc68874
+      internalID: -267673477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_69
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 279
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e28b5ac73414f4cbf18b0f79b5fe95
+      internalID: 587160466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_70
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 272
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b925447f8b0299c479ce0f7d31d73452
+      internalID: 1642025903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_71
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 274
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d6fd8249882e4383af1102c690865
+      internalID: 2002054557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_72
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 270
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58042dfe44f952a49b5c48dde3839104
+      internalID: 1012653862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 284
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1283efb22cefef14ead90873b8e9fdca
+      internalID: -532519774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_74
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 268
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a281f55b34835124799b94a89e79e517
+      internalID: 1737491035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_75
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 270
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1121018c15599034fbee02328487f89e
+      internalID: -761152753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_76
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 282
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60cdcfb3da49ca4098818353ccbf249
+      internalID: 1332517465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_77
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 272
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905db2c19b6ab604eb838c17514fc07f
+      internalID: -1231733521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_78
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 267
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894d1f2e877578a45987e06013ff904f
+      internalID: -912877600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 221
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4db23814dfc374f8a10533c1541665
+      internalID: -1203608615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_80
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 219
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab6a8516ad7b3e4da3419312aee5c00
+      internalID: 456129829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_81
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 242
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aef993de10814b4d8962d47a9117708
+      internalID: -422425600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_82
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 218
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e377a7fd81f43b641ae2a3115bb4c379
+      internalID: -429332242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d854f2025ae42fd4e85e718713fbf010
+      internalID: -1656187173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_84
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 246
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6927ff2d24535e4abc82149c107c4b7
+      internalID: 1419192093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_85
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 218
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4651c84072fda7041b6e8cc29a930942
+      internalID: -683214649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_86
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 229
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a745fec091d064a8ce67863cb67ba8
+      internalID: 890805188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_87
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 222
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c515a6ed4c55f46b603c48a60e7a44
+      internalID: -1134456778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_88
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 224
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d9ea6412dcbe747bc9a6c528ea5011
+      internalID: 2049460060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_89
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 218
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0990cef78a4eb7740997f948402019e6
+      internalID: -2014411924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_90
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 234
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ce92b48ad3c9149bcd1fed402a09ab
+      internalID: -897170264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_91
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 222
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d9b6b70bc17b34c9ce662687b32bdd
+      internalID: 1919340042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_92
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 217
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055a10a12eba61d43b353db0a369eec2
+      internalID: 55993887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_93
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53dc2d4b1b9c60498d5d4db5cff0a5f
+      internalID: -1754880292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_94
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a4298c6704a9a4081ae13c8c34cc5b
+      internalID: 363191654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_95
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 170
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140f07760bf11bd4fb87f92f81739867
+      internalID: 1907724598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_96
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 171
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0cc77136912894ca3dd1b452d3bca8
+      internalID: 740826982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_97
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 178
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316b11b362c697345a5039ba492c304b
+      internalID: -386532020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_98
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 170
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e0ce8016b4efd41a74fa369b46423a
+      internalID: -1866429184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_99
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 196
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36fd4744baa53e4a853447e7328a035
+      internalID: 273934288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_100
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 196
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c287855f0b6e04ba96c55d0c4b81dd
+      internalID: -1777353997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_101
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 196
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bf11ce432efec4e86b6b45e9ec7648
+      internalID: -632969377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_102
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 168
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970367eea4ecf334f9e078fee2770e4d
+      internalID: 636789026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_103
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 174
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb802752b81dc74090f1cc55c6a6896
+      internalID: 1149670637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 174
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6093abff8278fa749b80d2aff9f94b40
+      internalID: -222972236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_105
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 174
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e20f842304deb4fa895a9a2eb8d84d
+      internalID: -1270040908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_106
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 176
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbffcc4c82d2d1f46bd08f76f40a701d
+      internalID: -253546955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2138c6df272b894ab84f204f3391c87
+      internalID: -1210166328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_108
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de2dd07cfcde5e48ab182d7eb1c9c00
+      internalID: 2090619799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_109
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a039dd386a6f2b74e80dfb3bad9b4925
+      internalID: -2039419064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_110
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 172
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039aa9201753bb64386c7b6c83a81be5
+      internalID: -816153458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_111
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 172
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525e99d751691b14981d5c6843ccc926
+      internalID: -2022759619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_112
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 172
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e5c6ce050f70042885bb1b28ea275e
+      internalID: -807528862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 120
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b430b3e893d634aa33e04f38f46cdd
+      internalID: 592877380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_114
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 120
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aefd9587338b94181da31126aeb5e3
+      internalID: -942374501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_115
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 120
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb502e3b95bd134f994db41c9d783d2
+      internalID: -1643044848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_116
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 138
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded7dafd4a1b4c94bae4190d3a1087c1
+      internalID: 1540319833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 122
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e049fb20f96a24f8fbd083583ca9c3
+      internalID: -1438793171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_118
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 122
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6c1963a6fddac44b808eeffab195f6
+      internalID: -801616111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_119
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 118
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368e58be6aa47944180cdd927a6be8ce
+      internalID: -77041125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_120
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 120
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390a6067bcd5e19439b043a911e7ed2c
+      internalID: 618365058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_121
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 120
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077ed34da758b9140abea958bc2b1c6d
+      internalID: -568671823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_122
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 114
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4a7f6f801de68419536941193228f8
+      internalID: 669732979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_123
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 124
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0adcb2d58862d42998b3b15f9949b2
+      internalID: -682257215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_124
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 120
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b17a4f21f226ab4baccc680863af92f
+      internalID: 687969498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_125
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 66
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d4a586d5810ef48b5c6493e638ac2c
+      internalID: -841792593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_126
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 70
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68762ee3f9e33c6439a535cd9c480051
+      internalID: 1133039743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_127
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 66
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b988de1773d22dc44a4ac5bfe94b0183
+      internalID: 1450942306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_128
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f53d5bc8d1df814cbbd32a0e5b29826
+      internalID: -448527372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_129
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 75
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694f10284e52f3244aa1f2bc525b17b7
+      internalID: 1213294011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_130
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b22716be528fa340a17c5b4372a16f0
+      internalID: -62200089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_131
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 68
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f4d3194cc5a7243adbbcefc2ff66c0
+      internalID: -890915125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infowhite
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 69
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27618f8a100d03f43915ea607191a81c
+      internalID: -1006734661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_133
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 66
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec79986329f98f45ad9957db7d6917b
+      internalID: 1133437918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_134
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 66
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968c7c9502526b14986415c82ce62902
+      internalID: -1619174182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_135
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 74
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d58710183dff4399ec564d05e6e80
+      internalID: 1075509798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_136
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 23
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d612d4055d3349a41a5bbcf73f557bb7
+      internalID: -88271782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_137
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 22
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1897f427629ae6f4192afbcc12a723f1
+      internalID: 312319495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_138
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 22
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66968b3fbacb4474c80e2b89685795a1
+      internalID: -1325248657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_139
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b726b6cd59b04c8ac3ca6877bfd7e
+      internalID: 904480211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_140
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 18
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bc5378934912049b3f28533b9df941
+      internalID: -1996492284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_141
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 21
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61999299422cb4649a6ed4f98e19df1a
+      internalID: 537929975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_142
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681dfdbaa88ba544f8d7f814eed0ae29
+      internalID: -894297903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_143
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 20
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e943be7743188f54e9b7bb5ae8743339
+      internalID: 2083209866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_144
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 20
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8248ef0847ab84e9aeca1fb9a66daa
+      internalID: -1265813172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_white1x_145
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 24
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a862ffa50210408459e9229440ecf8db
+      internalID: 2020620775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -303, y: -200}
+      - {x: -303, y: -237}
+      - {x: -299, y: -240}
+      - {x: -271, y: -240}
+      - {x: -271, y: -202}
+      - {x: -277, y: -200}
+    - - {x: -355, y: -202}
+      - {x: -355, y: -238}
+      - {x: -319, y: -238}
+      - {x: -319, y: -208}
+      - {x: -327, y: -202}
+    - - {x: -193, y: -202}
+      - {x: -205, y: -215}
+      - {x: -205, y: -238}
+      - {x: -171, y: -238}
+      - {x: -169, y: -236}
+      - {x: -169, y: -220}
+      - {x: -181, y: -202}
+    - - {x: -124, y: -202}
+      - {x: -157, y: -202}
+      - {x: -157, y: -238}
+      - {x: -118, y: -238}
+      - {x: -114, y: -226}
+      - {x: -114, y: -209}
+    - - {x: -102, y: -201}
+      - {x: -106, y: -202}
+      - {x: -106, y: -229}
+      - {x: -100, y: -238}
+      - {x: -76, y: -238}
+      - {x: -66, y: -237}
+      - {x: -66, y: -204}
+      - {x: -68, y: -201}
+    - - {x: -245, y: -200}
+      - {x: -257, y: -208}
+      - {x: -259, y: -213}
+      - {x: -259, y: -232}
+      - {x: -247, y: -237}
+      - {x: -216, y: -237}
+      - {x: -214, y: -233}
+      - {x: -214, y: -210}
+      - {x: -224, y: -200}
+    - - {x: -444, y: -204}
+      - {x: -452, y: -206}
+      - {x: -452, y: -228}
+      - {x: -449, y: -236}
+      - {x: -424, y: -236}
+      - {x: -421, y: -235}
+      - {x: -420, y: -227}
+      - {x: -420, y: -204}
+    - - {x: -388, y: -202}
+      - {x: -405, y: -211}
+      - {x: -405, y: -226}
+      - {x: -402, y: -236}
+      - {x: -372, y: -236}
+      - {x: -369, y: -219}
+      - {x: -369, y: -214}
+      - {x: -383, y: -202}
+    - - {x: -493, y: -203}
+      - {x: -508, y: -212}
+      - {x: -508, y: -229}
+      - {x: -489, y: -235}
+      - {x: -470, y: -235}
+      - {x: -468, y: -232}
+      - {x: -468, y: -218}
+      - {x: -474, y: -203}
+    - - {x: -57, y: -206}
+      - {x: -58, y: -209}
+      - {x: -58, y: -232}
+      - {x: -56, y: -234}
+      - {x: -18, y: -234}
+      - {x: -16, y: -232}
+      - {x: -16, y: -206}
+    - - {x: -346, y: -223}
+      - {x: -328, y: -223}
+      - {x: -328, y: -229}
+      - {x: -346, y: -229}
+    - - {x: -85, y: -214}
+      - {x: -81, y: -220}
+      - {x: -84, y: -225}
+      - {x: -85, y: -226}
+    - - {x: -181, y: -222}
+      - {x: -182, y: -225}
+      - {x: -185, y: -226}
+      - {x: -184, y: -226}
+    - - {x: -342, y: -211}
+      - {x: -338, y: -211}
+      - {x: -338, y: -213}
+      - {x: -342, y: -213}
+    - - {x: -468, y: -156}
+      - {x: -479, y: -146}
+      - {x: -490, y: -146}
+      - {x: -503, y: -157}
+      - {x: -503, y: -187}
+      - {x: -502, y: -192}
+      - {x: -476, y: -192}
+      - {x: -473, y: -191}
+      - {x: -474, y: -184}
+      - {x: -476, y: -182}
+      - {x: -468, y: -168}
+    - - {x: -406, y: -153}
+      - {x: -406, y: -192}
+      - {x: -376, y: -192}
+      - {x: -366, y: -190}
+      - {x: -366, y: -160}
+      - {x: -367, y: -153}
+    - - {x: -160, y: -152}
+      - {x: -160, y: -171}
+      - {x: -157, y: -188}
+      - {x: -137, y: -192}
+      - {x: -114, y: -192}
+      - {x: -114, y: -152}
+    - - {x: -106, y: -152}
+      - {x: -106, y: -192}
+      - {x: -68, y: -192}
+      - {x: -66, y: -186}
+      - {x: -66, y: -168}
+      - {x: -69, y: -152}
+    - - {x: -244, y: -152}
+      - {x: -250, y: -156}
+      - {x: -250, y: -177}
+      - {x: -246, y: -190}
+      - {x: -229, y: -190}
+      - {x: -222, y: -180}
+      - {x: -222, y: -158}
+      - {x: -224, y: -152}
+    - - {x: -192, y: -146}
+      - {x: -202, y: -155}
+      - {x: -202, y: -188}
+      - {x: -201, y: -189}
+      - {x: -174, y: -189}
+      - {x: -174, y: -158}
+      - {x: -180, y: -146}
+    - - {x: -425, y: -146}
+      - {x: -444, y: -146}
+      - {x: -456, y: -152}
+      - {x: -456, y: -185}
+      - {x: -455, y: -187}
+      - {x: -452, y: -188}
+      - {x: -422, y: -188}
+      - {x: -420, y: -186}
+      - {x: -420, y: -150}
+    - - {x: -268, y: -157}
+      - {x: -278, y: -152}
+      - {x: -293, y: -152}
+      - {x: -304, y: -160}
+      - {x: -304, y: -184}
+      - {x: -296, y: -188}
+      - {x: -280, y: -188}
+      - {x: -277, y: -187}
+      - {x: -269, y: -182}
+      - {x: -268, y: -174}
+    - - {x: -58, y: -182}
+      - {x: -56, y: -184}
+      - {x: -16, y: -184}
+      - {x: -12, y: -173}
+      - {x: -12, y: -152}
+      - {x: -49, y: -152}
+      - {x: -58, y: -153}
+    - - {x: -321, y: -152}
+      - {x: -341, y: -152}
+      - {x: -353, y: -155}
+      - {x: -354, y: -157}
+      - {x: -354, y: -170}
+      - {x: -344, y: -183}
+      - {x: -332, y: -183}
+      - {x: -319, y: -171}
+      - {x: -318, y: -166}
+      - {x: -318, y: -156}
+    - - {x: -140, y: -175}
+      - {x: -134, y: -175}
+      - {x: -134, y: -180}
+      - {x: -140, y: -180}
+    - - {x: -238, y: -167}
+      - {x: -239, y: -166}
+      - {x: -238, y: -164}
+      - {x: -234, y: -164}
+      - {x: -233, y: -166}
+      - {x: -236, y: -169}
+      - {x: -236, y: -168}
+    - - {x: -140, y: -160}
+      - {x: -134, y: -160}
+      - {x: -134, y: -166}
+      - {x: -140, y: -166}
+    - - {x: -106, y: -98}
+      - {x: -106, y: -141}
+      - {x: -99, y: -144}
+      - {x: -79, y: -144}
+      - {x: -72, y: -136}
+      - {x: -72, y: -101}
+      - {x: -78, y: -98}
+    - - {x: -225, y: -102}
+      - {x: -243, y: -102}
+      - {x: -253, y: -106}
+      - {x: -253, y: -134}
+      - {x: -249, y: -140}
+      - {x: -225, y: -140}
+      - {x: -219, y: -136}
+      - {x: -219, y: -123}
+      - {x: -220, y: -110}
+    - - {x: -491, y: -102}
+      - {x: -505, y: -113}
+      - {x: -505, y: -128}
+      - {x: -504, y: -132}
+      - {x: -496, y: -138}
+      - {x: -483, y: -138}
+      - {x: -481, y: -136}
+      - {x: -481, y: -102}
+    - - {x: -433, y: -98}
+      - {x: -442, y: -98}
+      - {x: -455, y: -125}
+      - {x: -455, y: -138}
+      - {x: -418, y: -138}
+      - {x: -418, y: -125}
+      - {x: -430, y: -99}
+    - - {x: -402, y: -100}
+      - {x: -403, y: -103}
+      - {x: -403, y: -136}
+      - {x: -401, y: -138}
+      - {x: -374, y: -138}
+      - {x: -372, y: -136}
+      - {x: -372, y: -100}
+    - - {x: -349, y: -98}
+      - {x: -352, y: -100}
+      - {x: -352, y: -134}
+      - {x: -346, y: -138}
+      - {x: -330, y: -138}
+      - {x: -322, y: -126}
+      - {x: -322, y: -105}
+      - {x: -328, y: -98}
+    - - {x: -193, y: -98}
+      - {x: -205, y: -102}
+      - {x: -205, y: -138}
+      - {x: -169, y: -138}
+      - {x: -169, y: -110}
+      - {x: -173, y: -98}
+    - - {x: -149, y: -138}
+      - {x: -143, y: -138}
+      - {x: -120, y: -129}
+      - {x: -120, y: -116}
+      - {x: -127, y: -101}
+      - {x: -149, y: -101}
+    - - {x: -298, y: -98}
+      - {x: -302, y: -99}
+      - {x: -303, y: -99}
+      - {x: -303, y: -136}
+      - {x: -287, y: -136}
+      - {x: -287, y: -98}
+    - - {x: -287, y: -136}
+      - {x: -271, y: -136}
+      - {x: -271, y: -98}
+      - {x: -287, y: -98}
+    - - {x: -58, y: -106}
+      - {x: -58, y: -132}
+      - {x: -56, y: -134}
+      - {x: -18, y: -134}
+      - {x: -16, y: -132}
+      - {x: -16, y: -109}
+      - {x: -17, y: -106}
+    - - {x: -92, y: -111}
+      - {x: -93, y: -111}
+      - {x: -93, y: -129}
+      - {x: -92, y: -129}
+    - - {x: -392, y: -111}
+      - {x: -383, y: -111}
+      - {x: -383, y: -125}
+      - {x: -392, y: -125}
+    - - {x: -436, y: -117}
+      - {x: -437, y: -117}
+      - {x: -437, y: -122}
+      - {x: -436, y: -122}
+    - - {x: -238, y: -117}
+      - {x: -239, y: -116}
+      - {x: -238, y: -114}
+      - {x: -234, y: -114}
+      - {x: -233, y: -116}
+      - {x: -236, y: -119}
+      - {x: -236, y: -118}
+    - - {x: -477, y: -59}
+      - {x: -480, y: -61}
+      - {x: -479, y: -53}
+      - {x: -483, y: -52}
+      - {x: -492, y: -52}
+      - {x: -505, y: -60}
+      - {x: -505, y: -83}
+      - {x: -503, y: -90}
+      - {x: -480, y: -90}
+      - {x: -477, y: -89}
+      - {x: -469, y: -81}
+      - {x: -469, y: -65}
+      - {x: -472, y: -56}
+    - - {x: -206, y: -51}
+      - {x: -208, y: -57}
+      - {x: -208, y: -90}
+      - {x: -170, y: -90}
+      - {x: -168, y: -89}
+      - {x: -168, y: -59}
+      - {x: -179, y: -51}
+    - - {x: -453, y: -52}
+      - {x: -454, y: -56}
+      - {x: -454, y: -77}
+      - {x: -434, y: -88}
+      - {x: -418, y: -88}
+      - {x: -418, y: -67}
+      - {x: -434, y: -52}
+    - - {x: -403, y: -52}
+      - {x: -404, y: -54}
+      - {x: -404, y: -83}
+      - {x: -397, y: -88}
+      - {x: -377, y: -88}
+      - {x: -368, y: -79}
+      - {x: -368, y: -55}
+      - {x: -375, y: -52}
+    - - {x: -298, y: -50}
+      - {x: -301, y: -53}
+      - {x: -301, y: -86}
+      - {x: -299, y: -88}
+      - {x: -276, y: -88}
+      - {x: -274, y: -86}
+      - {x: -274, y: -52}
+      - {x: -276, y: -50}
+    - - {x: -325, y: -76}
+      - {x: -322, y: -76}
+      - {x: -320, y: -74}
+      - {x: -320, y: -56}
+      - {x: -322, y: -54}
+      - {x: -340, y: -54}
+      - {x: -343, y: -55}
+      - {x: -351, y: -55}
+      - {x: -353, y: -59}
+      - {x: -353, y: -85}
+      - {x: -351, y: -87}
+      - {x: -327, y: -87}
+      - {x: -325, y: -85}
+      - {x: -325, y: -77}
+      - {x: -326, y: -75}
+    - - {x: -253, y: -74}
+      - {x: -255, y: -76}
+      - {x: -255, y: -84}
+      - {x: -253, y: -86}
+      - {x: -245, y: -86}
+      - {x: -243, y: -84}
+      - {x: -243, y: -76}
+      - {x: -245, y: -74}
+    - - {x: -241, y: -74}
+      - {x: -243, y: -76}
+      - {x: -243, y: -84}
+      - {x: -241, y: -86}
+      - {x: -233, y: -86}
+      - {x: -231, y: -84}
+      - {x: -231, y: -76}
+      - {x: -233, y: -74}
+    - - {x: -229, y: -74}
+      - {x: -231, y: -76}
+      - {x: -231, y: -84}
+      - {x: -229, y: -86}
+      - {x: -221, y: -86}
+      - {x: -219, y: -84}
+      - {x: -219, y: -76}
+      - {x: -221, y: -74}
+    - - {x: -156, y: -53}
+      - {x: -160, y: -59}
+      - {x: -160, y: -84}
+      - {x: -114, y: -84}
+      - {x: -114, y: -60}
+      - {x: -123, y: -53}
+    - - {x: -69, y: -57}
+      - {x: -106, y: -57}
+      - {x: -106, y: -72}
+      - {x: -95, y: -84}
+      - {x: -75, y: -84}
+      - {x: -66, y: -74}
+      - {x: -66, y: -64}
+    - - {x: -58, y: -84}
+      - {x: -16, y: -84}
+      - {x: -16, y: -59}
+      - {x: -17, y: -56}
+      - {x: -58, y: -56}
+    - - {x: -345, y: -73}
+      - {x: -339, y: -79}
+      - {x: -344, y: -78}
+    - - {x: -290, y: -61}
+      - {x: -285, y: -61}
+      - {x: -285, y: -75}
+      - {x: -290, y: -75}
+    - - {x: -147, y: -74}
+      - {x: -150, y: -71}
+      - {x: -152, y: -72}
+      - {x: -150, y: -73}
+      - {x: -147, y: -70}
+      - {x: -148, y: -68}
+      - {x: -149, y: -70}
+      - {x: -146, y: -73}
+      - {x: -144, y: -72}
+      - {x: -146, y: -71}
+      - {x: -149, y: -74}
+      - {x: -148, y: -76}
+      - {x: -147, y: -75}
+    - - {x: -253, y: -62}
+      - {x: -255, y: -64}
+      - {x: -255, y: -72}
+      - {x: -253, y: -74}
+      - {x: -245, y: -74}
+      - {x: -243, y: -72}
+      - {x: -243, y: -64}
+      - {x: -245, y: -62}
+    - - {x: -241, y: -62}
+      - {x: -243, y: -64}
+      - {x: -243, y: -72}
+      - {x: -241, y: -74}
+      - {x: -233, y: -74}
+      - {x: -231, y: -72}
+      - {x: -231, y: -64}
+      - {x: -233, y: -62}
+    - - {x: -229, y: -62}
+      - {x: -231, y: -64}
+      - {x: -231, y: -72}
+      - {x: -229, y: -74}
+      - {x: -221, y: -74}
+      - {x: -219, y: -72}
+      - {x: -219, y: -64}
+      - {x: -221, y: -62}
+    - - {x: -253, y: -50}
+      - {x: -255, y: -52}
+      - {x: -255, y: -60}
+      - {x: -253, y: -62}
+      - {x: -245, y: -62}
+      - {x: -243, y: -60}
+      - {x: -243, y: -52}
+      - {x: -245, y: -50}
+    - - {x: -241, y: -50}
+      - {x: -243, y: -52}
+      - {x: -243, y: -60}
+      - {x: -241, y: -62}
+      - {x: -233, y: -62}
+      - {x: -231, y: -60}
+      - {x: -231, y: -52}
+      - {x: -233, y: -50}
+    - - {x: -229, y: -50}
+      - {x: -231, y: -52}
+      - {x: -231, y: -60}
+      - {x: -229, y: -62}
+      - {x: -221, y: -62}
+      - {x: -219, y: -60}
+      - {x: -219, y: -52}
+      - {x: -221, y: -50}
+    - - {x: -158, y: 0}
+      - {x: -158, y: -34}
+      - {x: -141, y: -41}
+      - {x: -114, y: -41}
+      - {x: -114, y: -4}
+      - {x: -123, y: 0}
+    - - {x: -401, y: -1}
+      - {x: -401, y: -40}
+      - {x: -373, y: -40}
+      - {x: -373, y: -1}
+    - - {x: -339, y: 0}
+      - {x: -356, y: -10}
+      - {x: -356, y: -26}
+      - {x: -353, y: -32}
+      - {x: -339, y: -40}
+      - {x: -322, y: -40}
+      - {x: -318, y: -38}
+      - {x: -318, y: -3}
+      - {x: -320, y: 0}
+    - - {x: -197, y: 4}
+      - {x: -208, y: -22}
+      - {x: -208, y: -40}
+      - {x: -168, y: -40}
+      - {x: -168, y: -8}
+      - {x: -169, y: 4}
+    - - {x: -448, y: -2}
+      - {x: -454, y: -4}
+      - {x: -454, y: -25}
+      - {x: -452, y: -33}
+      - {x: -436, y: -39}
+      - {x: -418, y: -39}
+      - {x: -418, y: -14}
+      - {x: -425, y: -2}
+    - - {x: -300, y: -38}
+      - {x: -276, y: -38}
+      - {x: -268, y: -34}
+      - {x: -268, y: -10}
+      - {x: -272, y: -2}
+      - {x: -296, y: -2}
+      - {x: -304, y: -6}
+      - {x: -304, y: -30}
+    - - {x: -490, y: -1}
+      - {x: -499, y: -4}
+      - {x: -499, y: -31}
+      - {x: -488, y: -37}
+      - {x: -476, y: -37}
+      - {x: -474, y: -36}
+      - {x: -474, y: -1}
+    - - {x: -220, y: -24}
+      - {x: -255, y: -24}
+      - {x: -256, y: -27}
+      - {x: -256, y: -36}
+      - {x: -217, y: -36}
+      - {x: -216, y: -34}
+      - {x: -216, y: -27}
+    - - {x: -92, y: -4}
+      - {x: -101, y: -7}
+      - {x: -102, y: -12}
+      - {x: -102, y: -36}
+      - {x: -76, y: -36}
+      - {x: -70, y: -22}
+      - {x: -70, y: -12}
+      - {x: -73, y: -4}
+    - - {x: -58, y: -6}
+      - {x: -60, y: -8}
+      - {x: -60, y: -32}
+      - {x: -58, y: -34}
+      - {x: -15, y: -34}
+      - {x: -13, y: -32}
+      - {x: -13, y: -8}
+      - {x: -15, y: -6}
+    - - {x: -336, y: -20}
+      - {x: -335, y: -19}
+      - {x: -335, y: -22}
+      - {x: -334, y: -22}
+    - - {x: -220, y: -12}
+      - {x: -255, y: -12}
+      - {x: -256, y: -15}
+      - {x: -256, y: -24}
+      - {x: -217, y: -24}
+      - {x: -216, y: -22}
+      - {x: -216, y: -15}
+    - - {x: -443, y: -20}
+      - {x: -444, y: -19}
+      - {x: -444, y: -17}
+      - {x: -445, y: -16}
+      - {x: -444, y: -15}
+      - {x: -444, y: -13}
+      - {x: -443, y: -12}
+      - {x: -437, y: -12}
+      - {x: -435, y: -16}
+      - {x: -436, y: -17}
+      - {x: -436, y: -19}
+      - {x: -440, y: -21}
+      - {x: -441, y: -20}
+    - - {x: -220, y: 0}
+      - {x: -255, y: 0}
+      - {x: -256, y: -3}
+      - {x: -256, y: -12}
+      - {x: -217, y: -12}
+      - {x: -216, y: -10}
+      - {x: -216, y: -3}
+    - - {x: -124, y: 50}
+      - {x: -150, y: 50}
+      - {x: -158, y: 39}
+      - {x: -158, y: 25}
+      - {x: -144, y: 11}
+      - {x: -135, y: 9}
+      - {x: -115, y: 9}
+      - {x: -115, y: 30}
+      - {x: -122, y: 49}
+    - - {x: -392, y: 53}
+      - {x: -403, y: 47}
+      - {x: -403, y: 29}
+      - {x: -401, y: 12}
+      - {x: -399, y: 10}
+      - {x: -375, y: 10}
+      - {x: -373, y: 11}
+      - {x: -373, y: 50}
+      - {x: -377, y: 53}
+    - - {x: -289, y: 52}
+      - {x: -305, y: 45}
+      - {x: -305, y: 18}
+      - {x: -300, y: 10}
+      - {x: -275, y: 10}
+      - {x: -267, y: 17}
+      - {x: -267, y: 40}
+      - {x: -272, y: 52}
+    - - {x: -208, y: 16}
+      - {x: -204, y: 10}
+      - {x: -169, y: 10}
+      - {x: -169, y: 52}
+      - {x: -202, y: 52}
+      - {x: -208, y: 45}
+    - - {x: -450, y: 48}
+      - {x: -454, y: 42}
+      - {x: -454, y: 20}
+      - {x: -441, y: 11}
+      - {x: -419, y: 11}
+      - {x: -418, y: 14}
+      - {x: -418, y: 28}
+      - {x: -431, y: 48}
+    - - {x: -343, y: 32}
+      - {x: -357, y: 32}
+      - {x: -358, y: 26}
+      - {x: -358, y: 12}
+      - {x: -342, y: 12}
+      - {x: -342, y: 31}
+    - - {x: 27, y: 44}
+      - {x: -4, y: 44}
+      - {x: -6, y: 36}
+      - {x: -6, y: 17}
+      - {x: 1, y: 12}
+      - {x: 16, y: 12}
+      - {x: 31, y: 15}
+      - {x: 33, y: 20}
+      - {x: 33, y: 33}
+    - - {x: -505, y: 26}
+      - {x: -505, y: 14}
+      - {x: -465, y: 14}
+      - {x: -465, y: 26}
+    - - {x: -97, y: 46}
+      - {x: -102, y: 42}
+      - {x: -102, y: 17}
+      - {x: -95, y: 14}
+      - {x: -70, y: 14}
+      - {x: -70, y: 41}
+      - {x: -90, y: 46}
+    - - {x: -58, y: 44}
+      - {x: -60, y: 42}
+      - {x: -60, y: 18}
+      - {x: -58, y: 16}
+      - {x: -15, y: 16}
+      - {x: -13, y: 18}
+      - {x: -13, y: 42}
+      - {x: -15, y: 44}
+    - - {x: -291, y: 23}
+      - {x: -292, y: 25}
+      - {x: -293, y: 26}
+      - {x: -293, y: 32}
+      - {x: -291, y: 35}
+      - {x: -293, y: 32}
+      - {x: -293, y: 26}
+      - {x: -290, y: 23}
+      - {x: -284, y: 23}
+      - {x: -280, y: 27}
+      - {x: -281, y: 35}
+      - {x: -279, y: 31}
+      - {x: -279, y: 26}
+      - {x: -283, y: 22}
+      - {x: -289, y: 22}
+      - {x: -290, y: 23}
+    - - {x: -256, y: 36}
+      - {x: -256, y: 24}
+      - {x: -216, y: 24}
+      - {x: -216, y: 36}
+    - - {x: -505, y: 38}
+      - {x: -505, y: 26}
+      - {x: -465, y: 26}
+      - {x: -465, y: 38}
+    - - {x: -505, y: 50}
+      - {x: -505, y: 38}
+      - {x: -465, y: 38}
+      - {x: -465, y: 50}
+    - - {x: -131, y: 100}
+      - {x: -158, y: 100}
+      - {x: -158, y: 68}
+      - {x: -151, y: 59}
+      - {x: -115, y: 59}
+      - {x: -115, y: 86}
+      - {x: -123, y: 99}
+    - - {x: -405, y: 94}
+      - {x: -405, y: 70}
+      - {x: -401, y: 60}
+      - {x: -385, y: 60}
+      - {x: -371, y: 63}
+      - {x: -366, y: 67}
+      - {x: -366, y: 85}
+      - {x: -370, y: 94}
+    - - {x: -303, y: 98}
+      - {x: -303, y: 62}
+      - {x: -297, y: 60}
+      - {x: -271, y: 60}
+      - {x: -271, y: 98}
+    - - {x: -252, y: 65}
+      - {x: -249, y: 60}
+      - {x: -227, y: 60}
+      - {x: -220, y: 63}
+      - {x: -220, y: 99}
+      - {x: -252, y: 99}
+    - - {x: -45, y: 100}
+      - {x: -54, y: 91}
+      - {x: -54, y: 60}
+      - {x: -27, y: 60}
+      - {x: -18, y: 70}
+      - {x: -18, y: 100}
+    - - {x: -4, y: 100}
+      - {x: -4, y: 65}
+      - {x: 7, y: 60}
+      - {x: 26, y: 60}
+      - {x: 32, y: 64}
+      - {x: 32, y: 100}
+    - - {x: -454, y: 70}
+      - {x: -440, y: 61}
+      - {x: -418, y: 61}
+      - {x: -418, y: 78}
+      - {x: -426, y: 98}
+      - {x: -451, y: 98}
+      - {x: -454, y: 92}
+    - - {x: -355, y: 82}
+      - {x: -355, y: 62}
+      - {x: -343, y: 62}
+      - {x: -343, y: 82}
+    - - {x: -343, y: 90}
+      - {x: -343, y: 62}
+      - {x: -331, y: 62}
+      - {x: -331, y: 90}
+    - - {x: -204, y: 78}
+      - {x: -204, y: 62}
+      - {x: -188, y: 62}
+      - {x: -188, y: 77}
+      - {x: -189, y: 78}
+    - - {x: -183, y: 78}
+      - {x: -184, y: 76}
+      - {x: -184, y: 64}
+      - {x: -182, y: 62}
+      - {x: -170, y: 62}
+      - {x: -168, y: 64}
+      - {x: -168, y: 76}
+      - {x: -169, y: 78}
+    - - {x: -93, y: 96}
+      - {x: -93, y: 63}
+      - {x: -92, y: 62}
+      - {x: -84, y: 62}
+      - {x: -81, y: 63}
+      - {x: -81, y: 95}
+      - {x: -83, y: 96}
+    - - {x: -503, y: 100}
+      - {x: -505, y: 98}
+      - {x: -505, y: 66}
+      - {x: -503, y: 64}
+      - {x: -493, y: 64}
+      - {x: -493, y: 100}
+    - - {x: -493, y: 100}
+      - {x: -493, y: 64}
+      - {x: -481, y: 64}
+      - {x: -481, y: 100}
+    - - {x: -481, y: 100}
+      - {x: -481, y: 64}
+      - {x: -471, y: 64}
+      - {x: -469, y: 66}
+      - {x: -469, y: 98}
+      - {x: -471, y: 100}
+    - - {x: -204, y: 98}
+      - {x: -204, y: 82}
+      - {x: -189, y: 82}
+      - {x: -188, y: 83}
+      - {x: -188, y: 98}
+    - - {x: -184, y: 98}
+      - {x: -184, y: 82}
+      - {x: -168, y: 82}
+      - {x: -168, y: 98}
+    - - {x: -244, y: 87}
+      - {x: -244, y: 91}
+      - {x: -241, y: 92}
+      - {x: -242, y: 91}
+      - {x: -241, y: 86}
+      - {x: -242, y: 87}
+    - - {x: -230, y: 90}
+      - {x: -232, y: 92}
+      - {x: -228, y: 91}
+      - {x: -228, y: 87}
+      - {x: -230, y: 87}
+      - {x: -231, y: 86}
+      - {x: -230, y: 86}
+    - - {x: -204, y: 145}
+      - {x: -208, y: 135}
+      - {x: -208, y: 108}
+      - {x: -190, y: 108}
+      - {x: -168, y: 111}
+      - {x: -162, y: 115}
+      - {x: -162, y: 140}
+      - {x: -173, y: 145}
+    - - {x: -38, y: 154}
+      - {x: -40, y: 153}
+      - {x: -52, y: 142}
+      - {x: -58, y: 134}
+      - {x: -58, y: 126}
+      - {x: -50, y: 112}
+      - {x: -40, y: 108}
+      - {x: -26, y: 108}
+      - {x: -18, y: 116}
+      - {x: -18, y: 143}
+      - {x: -22, y: 154}
+    - - {x: 18, y: 154}
+      - {x: 7, y: 154}
+      - {x: -4, y: 143}
+      - {x: -4, y: 122}
+      - {x: 0, y: 108}
+      - {x: 20, y: 108}
+      - {x: 36, y: 121}
+      - {x: 36, y: 137}
+      - {x: 29, y: 152}
+    - - {x: -392, y: 133}
+      - {x: -374, y: 136}
+      - {x: -370, y: 137}
+      - {x: -372, y: 151}
+      - {x: -400, y: 151}
+      - {x: -404, y: 150}
+      - {x: -404, y: 109}
+      - {x: -368, y: 109}
+      - {x: -368, y: 133}
+    - - {x: -114, y: 147}
+      - {x: -120, y: 150}
+      - {x: -158, y: 150}
+      - {x: -158, y: 120}
+      - {x: -148, y: 109}
+      - {x: -116, y: 109}
+      - {x: -115, y: 111}
+      - {x: -115, y: 127}
+      - {x: -117, y: 129}
+      - {x: -114, y: 132}
+    - - {x: -454, y: 120}
+      - {x: -445, y: 111}
+      - {x: -418, y: 111}
+      - {x: -418, y: 140}
+      - {x: -419, y: 144}
+      - {x: -429, y: 148}
+      - {x: -451, y: 148}
+      - {x: -454, y: 142}
+    - - {x: -299, y: 147}
+      - {x: -299, y: 111}
+      - {x: -276, y: 111}
+      - {x: -270, y: 127}
+      - {x: -270, y: 138}
+      - {x: -280, y: 147}
+    - - {x: -499, y: 147}
+      - {x: -508, y: 135}
+      - {x: -508, y: 120}
+      - {x: -500, y: 112}
+      - {x: -469, y: 112}
+      - {x: -469, y: 136}
+      - {x: -477, y: 147}
+    - - {x: -355, y: 132}
+      - {x: -355, y: 112}
+      - {x: -343, y: 112}
+      - {x: -343, y: 132}
+    - - {x: -343, y: 140}
+      - {x: -343, y: 112}
+      - {x: -331, y: 112}
+      - {x: -331, y: 140}
+    - - {x: -329, y: 148}
+      - {x: -331, y: 146}
+      - {x: -331, y: 114}
+      - {x: -329, y: 112}
+      - {x: -321, y: 112}
+      - {x: -319, y: 114}
+      - {x: -319, y: 146}
+      - {x: -321, y: 148}
+    - - {x: -251, y: 149}
+      - {x: -256, y: 147}
+      - {x: -256, y: 116}
+      - {x: -255, y: 113}
+      - {x: -225, y: 113}
+      - {x: -216, y: 120}
+      - {x: -216, y: 149}
+    - - {x: -105, y: 127}
+      - {x: -94, y: 116}
+      - {x: -90, y: 113}
+      - {x: -66, y: 113}
+      - {x: -66, y: 132}
+      - {x: -69, y: 145}
+      - {x: -87, y: 145}
+      - {x: -95, y: 143}
+      - {x: -105, y: 131}
+    - - {x: -385, y: 119}
+      - {x: -387, y: 121}
+      - {x: -385, y: 121}
+      - {x: -387, y: 119}
+      - {x: -386, y: 117}
+      - {x: -385, y: 118}
+    - - {x: -76, y: 126}
+      - {x: -84, y: 122}
+      - {x: -85, y: 121}
+      - {x: -79, y: 119}
+    - - {x: -445, y: 131}
+      - {x: -444, y: 129}
+      - {x: -436, y: 129}
+      - {x: -435, y: 131}
+      - {x: -438, y: 130}
+      - {x: -440, y: 129}
+      - {x: -441, y: 130}
+    - - {x: -488, y: 131}
+      - {x: -485, y: 134}
+      - {x: -486, y: 137}
+      - {x: -481, y: 132}
+      - {x: -493, y: 132}
+      - {x: -492, y: 131}
+    - - {x: -79, y: 136}
+      - {x: -79, y: 137}
+      - {x: -83, y: 137}
+      - {x: -83, y: 136}
+    - - {x: -437, y: 138}
+      - {x: -444, y: 139}
+      - {x: -445, y: 137}
+    - - {x: -55, y: 195}
+      - {x: -55, y: 185}
+      - {x: -47, y: 157}
+      - {x: -44, y: 156}
+      - {x: -21, y: 156}
+      - {x: -18, y: 172}
+      - {x: -18, y: 195}
+    - - {x: -501, y: 199}
+      - {x: -504, y: 197}
+      - {x: -504, y: 170}
+      - {x: -500, y: 162}
+      - {x: -476, y: 162}
+      - {x: -468, y: 169}
+      - {x: -468, y: 191}
+      - {x: -471, y: 199}
+    - - {x: -454, y: 162}
+      - {x: -420, y: 162}
+      - {x: -420, y: 191}
+      - {x: -424, y: 200}
+      - {x: -450, y: 200}
+      - {x: -454, y: 187}
+    - - {x: -344, y: 198}
+      - {x: -353, y: 184}
+      - {x: -353, y: 166}
+      - {x: -351, y: 162}
+      - {x: -324, y: 162}
+      - {x: -321, y: 163}
+      - {x: -321, y: 183}
+      - {x: -331, y: 198}
+    - - {x: -230, y: 202}
+      - {x: -232, y: 200}
+      - {x: -232, y: 197}
+      - {x: -234, y: 200}
+      - {x: -236, y: 202}
+      - {x: -246, y: 202}
+      - {x: -253, y: 199}
+      - {x: -253, y: 162}
+      - {x: -221, y: 162}
+      - {x: -216, y: 165}
+      - {x: -216, y: 181}
+      - {x: -222, y: 202}
+    - - {x: -203, y: 190}
+      - {x: -208, y: 181}
+      - {x: -208, y: 164}
+      - {x: -206, y: 162}
+      - {x: -169, y: 162}
+      - {x: -168, y: 164}
+      - {x: -168, y: 186}
+      - {x: -178, y: 190}
+    - - {x: -147, y: 198}
+      - {x: -154, y: 194}
+      - {x: -154, y: 168}
+      - {x: -149, y: 162}
+      - {x: -125, y: 162}
+      - {x: -121, y: 163}
+      - {x: -118, y: 169}
+      - {x: -118, y: 196}
+      - {x: -128, y: 198}
+    - - {x: -298, y: 195}
+      - {x: -304, y: 190}
+      - {x: -304, y: 169}
+      - {x: -301, y: 166}
+      - {x: -295, y: 163}
+      - {x: -271, y: 163}
+      - {x: -268, y: 167}
+      - {x: -268, y: 192}
+      - {x: -275, y: 195}
+    - - {x: -102, y: 195}
+      - {x: -102, y: 163}
+      - {x: -80, y: 163}
+      - {x: -66, y: 169}
+      - {x: -66, y: 184}
+      - {x: -80, y: 195}
+    - - {x: 4, y: 196}
+      - {x: -3, y: 196}
+      - {x: -8, y: 191}
+      - {x: -8, y: 168}
+      - {x: -6, y: 166}
+      - {x: 32, y: 166}
+      - {x: 34, y: 168}
+      - {x: 34, y: 192}
+      - {x: 33, y: 194}
+    - - {x: -396, y: 196}
+      - {x: -406, y: 186}
+      - {x: -406, y: 169}
+      - {x: -367, y: 169}
+      - {x: -366, y: 172}
+      - {x: -366, y: 187}
+      - {x: -377, y: 196}
+    - - {x: -94, y: 172}
+      - {x: -93, y: 171}
+      - {x: -87, y: 171}
+      - {x: -88, y: 172}
+    - - {x: -281, y: 178}
+      - {x: -281, y: 181}
+      - {x: -282, y: 181}
+      - {x: -285, y: 175}
+      - {x: -283, y: 175}
+    - - {x: -85, y: 191}
+      - {x: -93, y: 187}
+      - {x: -94, y: 186}
+      - {x: -88, y: 184}
+    - - {x: -495, y: 250}
+      - {x: -504, y: 241}
+      - {x: -504, y: 215}
+      - {x: -503, y: 211}
+      - {x: -503, y: 210}
+      - {x: -476, y: 210}
+      - {x: -468, y: 216}
+      - {x: -468, y: 250}
+    - - {x: -334, y: 228}
+      - {x: -334, y: 210}
+      - {x: -318, y: 210}
+      - {x: -318, y: 228}
+    - - {x: -300, y: 248}
+      - {x: -310, y: 232}
+      - {x: -310, y: 216}
+      - {x: -302, y: 210}
+      - {x: -265, y: 210}
+      - {x: -265, y: 248}
+    - - {x: -38, y: 246}
+      - {x: -55, y: 237}
+      - {x: -55, y: 228}
+      - {x: -40, y: 210}
+      - {x: -27, y: 210}
+      - {x: -19, y: 233}
+      - {x: -19, y: 242}
+      - {x: -26, y: 246}
+    - - {x: -352, y: 228}
+      - {x: -354, y: 227}
+      - {x: -354, y: 213}
+      - {x: -353, y: 212}
+      - {x: -338, y: 212}
+      - {x: -338, y: 228}
+    - - {x: -243, y: 247}
+      - {x: -247, y: 246}
+      - {x: -253, y: 224}
+      - {x: -253, y: 212}
+      - {x: -238, y: 212}
+      - {x: -225, y: 215}
+      - {x: -222, y: 219}
+      - {x: -222, y: 247}
+    - - {x: -172, y: 250}
+      - {x: -195, y: 250}
+      - {x: -204, y: 248}
+      - {x: -204, y: 212}
+      - {x: -169, y: 212}
+      - {x: -168, y: 214}
+      - {x: -168, y: 237}
+    - - {x: -105, y: 232}
+      - {x: -105, y: 214}
+      - {x: -103, y: 212}
+      - {x: -71, y: 212}
+      - {x: -69, y: 214}
+      - {x: -69, y: 232}
+    - - {x: -138, y: 250}
+      - {x: -154, y: 235}
+      - {x: -154, y: 221}
+      - {x: -152, y: 213}
+      - {x: -117, y: 213}
+      - {x: -114, y: 226}
+      - {x: -114, y: 241}
+      - {x: -126, y: 250}
+    - - {x: -402, y: 246}
+      - {x: -402, y: 218}
+      - {x: -395, y: 214}
+      - {x: -372, y: 214}
+      - {x: -370, y: 216}
+      - {x: -370, y: 231}
+      - {x: -376, y: 246}
+    - - {x: -456, y: 221}
+      - {x: -451, y: 215}
+      - {x: -427, y: 215}
+      - {x: -414, y: 221}
+      - {x: -414, y: 245}
+      - {x: -415, y: 246}
+      - {x: -429, y: 247}
+      - {x: -443, y: 247}
+      - {x: -456, y: 232}
+    - - {x: -8, y: 244}
+      - {x: -8, y: 217}
+      - {x: -6, y: 216}
+      - {x: 32, y: 216}
+      - {x: 34, y: 218}
+      - {x: 34, y: 244}
+    - - {x: -185, y: 222}
+      - {x: -187, y: 224}
+      - {x: -185, y: 224}
+      - {x: -187, y: 222}
+      - {x: -186, y: 220}
+      - {x: -185, y: 221}
+    - - {x: -86, y: 250}
+      - {x: -97, y: 239}
+      - {x: -97, y: 232}
+      - {x: -93, y: 224}
+      - {x: -80, y: 224}
+      - {x: -72, y: 233}
+      - {x: -72, y: 244}
+      - {x: -80, y: 250}
+    - - {x: -232, y: 234}
+      - {x: -232, y: 235}
+      - {x: -233, y: 235}
+      - {x: -237, y: 231}
+      - {x: -236, y: 231}
+    - - {x: -353, y: 248}
+      - {x: -354, y: 247}
+      - {x: -354, y: 233}
+      - {x: -352, y: 232}
+      - {x: -338, y: 232}
+      - {x: -338, y: 248}
+    - - {x: -334, y: 248}
+      - {x: -334, y: 232}
+      - {x: -320, y: 232}
+      - {x: -318, y: 233}
+      - {x: -318, y: 247}
+      - {x: -319, y: 248}
+    - - {x: -191, y: 239}
+      - {x: -181, y: 239}
+      - {x: -181, y: 237}
+      - {x: -191, y: 237}
+    physicsShape:
+    - - {x: -355, y: -202}
+      - {x: -355, y: -238}
+      - {x: -319, y: -238}
+      - {x: -319, y: -209}
+      - {x: -328, y: -202}
+    - - {x: -281, y: -202}
+      - {x: -283, y: -205}
+      - {x: -292, y: -202}
+      - {x: -300, y: -202}
+      - {x: -303, y: -203}
+      - {x: -303, y: -238}
+      - {x: -271, y: -238}
+      - {x: -271, y: -204}
+      - {x: -275, y: -202}
+    - - {x: -205, y: -238}
+      - {x: -169, y: -238}
+      - {x: -169, y: -218}
+      - {x: -204, y: -218}
+      - {x: -205, y: -221}
+    - - {x: -157, y: -202}
+      - {x: -157, y: -238}
+      - {x: -132, y: -238}
+      - {x: -116, y: -221}
+      - {x: -116, y: -219}
+      - {x: -125, y: -202}
+    - - {x: -252, y: -206}
+      - {x: -259, y: -217}
+      - {x: -259, y: -228}
+      - {x: -257, y: -232}
+      - {x: -248, y: -237}
+      - {x: -228, y: -237}
+      - {x: -214, y: -233}
+      - {x: -214, y: -218}
+      - {x: -221, y: -206}
+    - - {x: -106, y: -202}
+      - {x: -106, y: -237}
+      - {x: -79, y: -237}
+      - {x: -70, y: -227}
+      - {x: -70, y: -210}
+      - {x: -77, y: -202}
+    - - {x: -420, y: -204}
+      - {x: -443, y: -204}
+      - {x: -450, y: -206}
+      - {x: -452, y: -224}
+      - {x: -452, y: -228}
+      - {x: -443, y: -236}
+      - {x: -441, y: -236}
+      - {x: -423, y: -232}
+      - {x: -420, y: -227}
+    - - {x: -389, y: -203}
+      - {x: -404, y: -212}
+      - {x: -404, y: -223}
+      - {x: -400, y: -236}
+      - {x: -375, y: -236}
+      - {x: -370, y: -219}
+      - {x: -370, y: -213}
+      - {x: -386, y: -203}
+    - - {x: -492, y: -203}
+      - {x: -506, y: -214}
+      - {x: -506, y: -224}
+      - {x: -504, y: -227}
+      - {x: -487, y: -235}
+      - {x: -481, y: -235}
+      - {x: -469, y: -221}
+      - {x: -469, y: -214}
+      - {x: -483, y: -203}
+    - - {x: -56, y: -206}
+      - {x: -58, y: -208}
+      - {x: -58, y: -234}
+      - {x: -16, y: -234}
+      - {x: -16, y: -206}
+    - - {x: -346, y: -223}
+      - {x: -328, y: -223}
+      - {x: -328, y: -229}
+      - {x: -346, y: -229}
+    - - {x: -85, y: -213}
+      - {x: -81, y: -216}
+      - {x: -84, y: -226}
+      - {x: -85, y: -227}
+    - - {x: -197, y: -216}
+      - {x: -191, y: -225}
+      - {x: -185, y: -225}
+      - {x: -177, y: -220}
+      - {x: -177, y: -209}
+      - {x: -180, y: -202}
+      - {x: -193, y: -202}
+      - {x: -197, y: -209}
+    - - {x: -342, y: -211}
+      - {x: -338, y: -211}
+      - {x: -338, y: -213}
+      - {x: -342, y: -213}
+    - - {x: -250, y: -153}
+      - {x: -250, y: -173}
+      - {x: -246, y: -190}
+      - {x: -230, y: -190}
+      - {x: -222, y: -180}
+      - {x: -222, y: -155}
+      - {x: -225, y: -153}
+    - - {x: -179, y: -152}
+      - {x: -197, y: -152}
+      - {x: -197, y: -189}
+      - {x: -177, y: -189}
+      - {x: -175, y: -187}
+      - {x: -175, y: -167}
+    - - {x: -492, y: -151}
+      - {x: -503, y: -165}
+      - {x: -503, y: -176}
+      - {x: -495, y: -188}
+      - {x: -482, y: -188}
+      - {x: -476, y: -187}
+      - {x: -471, y: -173}
+      - {x: -471, y: -162}
+      - {x: -486, y: -151}
+    - - {x: -455, y: -149}
+      - {x: -455, y: -188}
+      - {x: -420, y: -188}
+      - {x: -420, y: -149}
+    - - {x: -294, y: -152}
+      - {x: -304, y: -158}
+      - {x: -304, y: -183}
+      - {x: -303, y: -185}
+      - {x: -292, y: -188}
+      - {x: -283, y: -188}
+      - {x: -269, y: -175}
+      - {x: -269, y: -167}
+      - {x: -279, y: -152}
+    - - {x: -155, y: -152}
+      - {x: -155, y: -188}
+      - {x: -119, y: -188}
+      - {x: -119, y: -152}
+    - - {x: -73, y: -152}
+      - {x: -101, y: -152}
+      - {x: -105, y: -155}
+      - {x: -105, y: -188}
+      - {x: -69, y: -188}
+      - {x: -69, y: -155}
+    - - {x: -404, y: -153}
+      - {x: -404, y: -186}
+      - {x: -401, y: -187}
+      - {x: -370, y: -187}
+      - {x: -370, y: -153}
+    - - {x: -57, y: -156}
+      - {x: -58, y: -158}
+      - {x: -58, y: -182}
+      - {x: -56, y: -184}
+      - {x: -16, y: -184}
+      - {x: -16, y: -158}
+      - {x: -18, y: -156}
+    - - {x: -347, y: -154}
+      - {x: -354, y: -167}
+      - {x: -354, y: -172}
+      - {x: -341, y: -183}
+      - {x: -332, y: -183}
+      - {x: -320, y: -169}
+      - {x: -320, y: -162}
+      - {x: -332, y: -154}
+    - - {x: -140, y: -175}
+      - {x: -134, y: -175}
+      - {x: -134, y: -180}
+      - {x: -140, y: -180}
+    - - {x: -239, y: -168}
+      - {x: -239, y: -164}
+      - {x: -234, y: -163}
+      - {x: -233, y: -168}
+      - {x: -234, y: -169}
+      - {x: -238, y: -169}
+    - - {x: -140, y: -160}
+      - {x: -134, y: -160}
+      - {x: -134, y: -166}
+      - {x: -140, y: -166}
+    - - {x: -253, y: -136}
+      - {x: -251, y: -139}
+      - {x: -220, y: -139}
+      - {x: -220, y: -112}
+      - {x: -222, y: -107}
+      - {x: -225, y: -103}
+      - {x: -244, y: -103}
+      - {x: -253, y: -105}
+    - - {x: -485, y: -102}
+      - {x: -489, y: -102}
+      - {x: -505, y: -114}
+      - {x: -505, y: -128}
+      - {x: -487, y: -138}
+      - {x: -482, y: -138}
+      - {x: -481, y: -135}
+      - {x: -481, y: -104}
+    - - {x: -431, y: -104}
+      - {x: -438, y: -104}
+      - {x: -444, y: -106}
+      - {x: -455, y: -131}
+      - {x: -455, y: -134}
+      - {x: -452, y: -138}
+      - {x: -422, y: -138}
+      - {x: -418, y: -134}
+      - {x: -418, y: -129}
+    - - {x: -376, y: -100}
+      - {x: -398, y: -100}
+      - {x: -403, y: -104}
+      - {x: -403, y: -134}
+      - {x: -399, y: -138}
+      - {x: -376, y: -138}
+      - {x: -372, y: -134}
+      - {x: -372, y: -103}
+    - - {x: -177, y: -102}
+      - {x: -199, y: -102}
+      - {x: -202, y: -114}
+      - {x: -205, y: -123}
+      - {x: -205, y: -138}
+      - {x: -171, y: -138}
+      - {x: -169, y: -136}
+      - {x: -169, y: -126}
+      - {x: -175, y: -106}
+    - - {x: -74, y: -103}
+      - {x: -86, y: -102}
+      - {x: -101, y: -102}
+      - {x: -101, y: -138}
+      - {x: -78, y: -138}
+      - {x: -72, y: -135}
+      - {x: -72, y: -105}
+    - - {x: -148, y: -101}
+      - {x: -149, y: -104}
+      - {x: -149, y: -134}
+      - {x: -146, y: -137}
+      - {x: -141, y: -137}
+      - {x: -126, y: -120}
+      - {x: -126, y: -114}
+      - {x: -142, y: -101}
+    - - {x: -301, y: -100}
+      - {x: -303, y: -103}
+      - {x: -303, y: -133}
+      - {x: -300, y: -136}
+      - {x: -287, y: -136}
+      - {x: -287, y: -101}
+      - {x: -288, y: -100}
+    - - {x: -285, y: -136}
+      - {x: -271, y: -136}
+      - {x: -271, y: -100}
+      - {x: -286, y: -100}
+      - {x: -287, y: -101}
+      - {x: -287, y: -133}
+    - - {x: -338, y: -102}
+      - {x: -352, y: -116}
+      - {x: -352, y: -121}
+      - {x: -338, y: -135}
+      - {x: -336, y: -135}
+      - {x: -322, y: -122}
+      - {x: -322, y: -115}
+      - {x: -336, y: -102}
+    - - {x: -57, y: -106}
+      - {x: -58, y: -108}
+      - {x: -58, y: -132}
+      - {x: -56, y: -134}
+      - {x: -16, y: -134}
+      - {x: -16, y: -108}
+      - {x: -18, y: -106}
+    - - {x: -92, y: -111}
+      - {x: -93, y: -111}
+      - {x: -93, y: -129}
+      - {x: -92, y: -129}
+    - - {x: -392, y: -111}
+      - {x: -383, y: -111}
+      - {x: -383, y: -125}
+      - {x: -392, y: -125}
+    - - {x: -436, y: -116}
+      - {x: -437, y: -116}
+      - {x: -437, y: -123}
+      - {x: -436, y: -123}
+    - - {x: -239, y: -118}
+      - {x: -239, y: -114}
+      - {x: -234, y: -113}
+      - {x: -233, y: -118}
+      - {x: -234, y: -119}
+      - {x: -238, y: -119}
+    - - {x: -203, y: -52}
+      - {x: -203, y: -88}
+      - {x: -202, y: -90}
+      - {x: -171, y: -90}
+      - {x: -169, y: -88}
+      - {x: -169, y: -80}
+      - {x: -181, y: -52}
+    - - {x: -492, y: -53}
+      - {x: -505, y: -64}
+      - {x: -505, y: -76}
+      - {x: -490, y: -88}
+      - {x: -483, y: -88}
+      - {x: -481, y: -87}
+      - {x: -481, y: -54}
+      - {x: -483, y: -53}
+    - - {x: -433, y: -53}
+      - {x: -454, y: -53}
+      - {x: -454, y: -75}
+      - {x: -434, y: -88}
+      - {x: -425, y: -88}
+      - {x: -418, y: -84}
+      - {x: -418, y: -73}
+      - {x: -425, y: -58}
+    - - {x: -278, y: -50}
+      - {x: -300, y: -50}
+      - {x: -301, y: -53}
+      - {x: -301, y: -87}
+      - {x: -297, y: -88}
+      - {x: -278, y: -88}
+      - {x: -274, y: -84}
+      - {x: -274, y: -53}
+    - - {x: -399, y: -52}
+      - {x: -404, y: -57}
+      - {x: -404, y: -83}
+      - {x: -395, y: -87}
+      - {x: -373, y: -87}
+      - {x: -368, y: -79}
+      - {x: -368, y: -56}
+      - {x: -376, y: -52}
+    - - {x: -322, y: -76}
+      - {x: -320, y: -74}
+      - {x: -320, y: -56}
+      - {x: -322, y: -54}
+      - {x: -339, y: -54}
+      - {x: -342, y: -57}
+      - {x: -342, y: -58}
+      - {x: -349, y: -59}
+      - {x: -353, y: -62}
+      - {x: -353, y: -84}
+      - {x: -350, y: -87}
+      - {x: -328, y: -87}
+      - {x: -325, y: -84}
+      - {x: -324, y: -76}
+      - {x: -325, y: -77}
+    - - {x: -255, y: -83}
+      - {x: -254, y: -86}
+      - {x: -246, y: -86}
+      - {x: -243, y: -85}
+      - {x: -243, y: -76}
+      - {x: -244, y: -74}
+      - {x: -251, y: -74}
+      - {x: -255, y: -77}
+    - - {x: -243, y: -83}
+      - {x: -242, y: -86}
+      - {x: -234, y: -86}
+      - {x: -231, y: -85}
+      - {x: -231, y: -76}
+      - {x: -232, y: -74}
+      - {x: -239, y: -74}
+      - {x: -243, y: -77}
+    - - {x: -231, y: -83}
+      - {x: -230, y: -86}
+      - {x: -222, y: -86}
+      - {x: -219, y: -85}
+      - {x: -219, y: -76}
+      - {x: -220, y: -74}
+      - {x: -227, y: -74}
+      - {x: -231, y: -77}
+    - - {x: -145, y: -53}
+      - {x: -159, y: -62}
+      - {x: -159, y: -84}
+      - {x: -115, y: -84}
+      - {x: -115, y: -61}
+      - {x: -132, y: -53}
+    - - {x: -57, y: -56}
+      - {x: -58, y: -58}
+      - {x: -58, y: -82}
+      - {x: -56, y: -84}
+      - {x: -16, y: -84}
+      - {x: -16, y: -58}
+      - {x: -18, y: -56}
+    - - {x: -474, y: -59}
+      - {x: -479, y: -59}
+      - {x: -480, y: -61}
+      - {x: -480, y: -77}
+      - {x: -479, y: -81}
+      - {x: -474, y: -81}
+      - {x: -469, y: -76}
+      - {x: -469, y: -68}
+      - {x: -470, y: -62}
+    - - {x: -345, y: -72}
+      - {x: -338, y: -79}
+      - {x: -344, y: -78}
+    - - {x: -104, y: -57}
+      - {x: -104, y: -68}
+      - {x: -88, y: -80}
+      - {x: -81, y: -80}
+      - {x: -68, y: -67}
+      - {x: -68, y: -61}
+      - {x: -69, y: -57}
+    - - {x: -392, y: -74}
+      - {x: -393, y: -73}
+      - {x: -393, y: -67}
+      - {x: -390, y: -63}
+      - {x: -382, y: -63}
+      - {x: -379, y: -66}
+      - {x: -379, y: -73}
+      - {x: -383, y: -77}
+      - {x: -389, y: -77}
+      - {x: -389, y: -76}
+    - - {x: -393, y: -77}
+      - {x: -381, y: -77}
+      - {x: -379, y: -76}
+      - {x: -379, y: -67}
+      - {x: -381, y: -63}
+      - {x: -390, y: -63}
+      - {x: -393, y: -64}
+    - - {x: -290, y: -61}
+      - {x: -285, y: -61}
+      - {x: -285, y: -75}
+      - {x: -290, y: -75}
+    - - {x: -147, y: -74}
+      - {x: -150, y: -71}
+      - {x: -152, y: -72}
+      - {x: -150, y: -73}
+      - {x: -147, y: -70}
+      - {x: -148, y: -68}
+      - {x: -149, y: -70}
+      - {x: -146, y: -73}
+      - {x: -144, y: -72}
+      - {x: -146, y: -71}
+      - {x: -149, y: -74}
+      - {x: -148, y: -76}
+      - {x: -147, y: -75}
+    - - {x: -255, y: -71}
+      - {x: -254, y: -74}
+      - {x: -246, y: -74}
+      - {x: -243, y: -73}
+      - {x: -243, y: -64}
+      - {x: -244, y: -62}
+      - {x: -251, y: -62}
+      - {x: -255, y: -65}
+    - - {x: -243, y: -71}
+      - {x: -242, y: -74}
+      - {x: -234, y: -74}
+      - {x: -231, y: -73}
+      - {x: -231, y: -64}
+      - {x: -232, y: -62}
+      - {x: -239, y: -62}
+      - {x: -243, y: -65}
+    - - {x: -231, y: -71}
+      - {x: -230, y: -74}
+      - {x: -222, y: -74}
+      - {x: -219, y: -73}
+      - {x: -219, y: -64}
+      - {x: -220, y: -62}
+      - {x: -227, y: -62}
+      - {x: -231, y: -65}
+    - - {x: -255, y: -59}
+      - {x: -254, y: -62}
+      - {x: -246, y: -62}
+      - {x: -243, y: -61}
+      - {x: -243, y: -52}
+      - {x: -244, y: -50}
+      - {x: -251, y: -50}
+      - {x: -255, y: -53}
+    - - {x: -243, y: -59}
+      - {x: -242, y: -62}
+      - {x: -234, y: -62}
+      - {x: -231, y: -61}
+      - {x: -231, y: -52}
+      - {x: -232, y: -50}
+      - {x: -239, y: -50}
+      - {x: -243, y: -53}
+    - - {x: -231, y: -59}
+      - {x: -230, y: -62}
+      - {x: -222, y: -62}
+      - {x: -219, y: -61}
+      - {x: -219, y: -52}
+      - {x: -220, y: -50}
+      - {x: -227, y: -50}
+      - {x: -231, y: -53}
+    - - {x: -124, y: -1}
+      - {x: -146, y: -1}
+      - {x: -158, y: -10}
+      - {x: -158, y: -16}
+      - {x: -154, y: -31}
+      - {x: -140, y: -28}
+      - {x: -123, y: -41}
+      - {x: -114, y: -41}
+      - {x: -114, y: -23}
+      - {x: -122, y: -6}
+    - - {x: -384, y: -1}
+      - {x: -391, y: -1}
+      - {x: -401, y: -5}
+      - {x: -401, y: -38}
+      - {x: -400, y: -40}
+      - {x: -373, y: -40}
+      - {x: -373, y: -7}
+      - {x: -377, y: -4}
+    - - {x: -337, y: -1}
+      - {x: -351, y: -11}
+      - {x: -355, y: -15}
+      - {x: -356, y: -18}
+      - {x: -356, y: -24}
+      - {x: -352, y: -29}
+      - {x: -340, y: -40}
+      - {x: -319, y: -40}
+      - {x: -318, y: -39}
+      - {x: -318, y: -1}
+    - - {x: -199, y: -2}
+      - {x: -203, y: -26}
+      - {x: -203, y: -40}
+      - {x: -169, y: -40}
+      - {x: -169, y: -3}
+      - {x: -171, y: -2}
+    - - {x: -451, y: -3}
+      - {x: -454, y: -10}
+      - {x: -454, y: -24}
+      - {x: -445, y: -34}
+      - {x: -428, y: -38}
+      - {x: -418, y: -38}
+      - {x: -418, y: -20}
+      - {x: -426, y: -3}
+    - - {x: -268, y: -16}
+      - {x: -278, y: -2}
+      - {x: -291, y: -2}
+      - {x: -304, y: -12}
+      - {x: -304, y: -23}
+      - {x: -289, y: -38}
+      - {x: -283, y: -38}
+      - {x: -268, y: -23}
+    - - {x: -483, y: -1}
+      - {x: -498, y: -18}
+      - {x: -498, y: -20}
+      - {x: -484, y: -37}
+      - {x: -478, y: -37}
+      - {x: -475, y: -36}
+      - {x: -475, y: -3}
+      - {x: -479, y: -1}
+    - - {x: -255, y: -33}
+      - {x: -254, y: -36}
+      - {x: -246, y: -36}
+      - {x: -243, y: -35}
+      - {x: -243, y: -26}
+      - {x: -244, y: -24}
+      - {x: -251, y: -24}
+      - {x: -255, y: -27}
+    - - {x: -242, y: -24}
+      - {x: -243, y: -27}
+      - {x: -243, y: -36}
+      - {x: -219, y: -36}
+      - {x: -219, y: -24}
+    - - {x: -84, y: -5}
+      - {x: -99, y: -9}
+      - {x: -102, y: -14}
+      - {x: -102, y: -34}
+      - {x: -100, y: -36}
+      - {x: -74, y: -36}
+      - {x: -70, y: -26}
+      - {x: -70, y: -7}
+      - {x: -74, y: -5}
+    - - {x: -59, y: -34}
+      - {x: -13, y: -34}
+      - {x: -13, y: -6}
+      - {x: -60, y: -6}
+      - {x: -60, y: -31}
+    - - {x: -255, y: -21}
+      - {x: -254, y: -24}
+      - {x: -246, y: -24}
+      - {x: -243, y: -23}
+      - {x: -243, y: -14}
+      - {x: -244, y: -12}
+      - {x: -251, y: -12}
+      - {x: -255, y: -15}
+    - - {x: -242, y: -12}
+      - {x: -243, y: -15}
+      - {x: -243, y: -24}
+      - {x: -219, y: -24}
+      - {x: -219, y: -12}
+    - - {x: -445, y: -18}
+      - {x: -445, y: -14}
+      - {x: -443, y: -11}
+      - {x: -437, y: -11}
+      - {x: -435, y: -14}
+      - {x: -435, y: -19}
+      - {x: -438, y: -21}
+      - {x: -442, y: -21}
+      - {x: -442, y: -20}
+    - - {x: -149, y: -19}
+      - {x: -147, y: -17}
+      - {x: -148, y: -16}
+      - {x: -146, y: -18}
+      - {x: -144, y: -17}
+      - {x: -145, y: -16}
+      - {x: -148, y: -19}
+      - {x: -147, y: -19}
+      - {x: -148, y: -18}
+    - - {x: -255, y: -9}
+      - {x: -254, y: -12}
+      - {x: -246, y: -12}
+      - {x: -243, y: -11}
+      - {x: -243, y: -2}
+      - {x: -244, y: 0}
+      - {x: -251, y: 0}
+      - {x: -255, y: -3}
+    - - {x: -242, y: 0}
+      - {x: -243, y: -3}
+      - {x: -243, y: -12}
+      - {x: -219, y: -12}
+      - {x: -219, y: 0}
+    - - {x: -125, y: 48}
+      - {x: -127, y: 49}
+      - {x: -146, y: 49}
+      - {x: -158, y: 42}
+      - {x: -158, y: 25}
+      - {x: -155, y: 18}
+      - {x: -129, y: 9}
+      - {x: -115, y: 9}
+      - {x: -115, y: 29}
+      - {x: -121, y: 45}
+    - - {x: -393, y: 52}
+      - {x: -402, y: 45}
+      - {x: -402, y: 31}
+      - {x: -401, y: 13}
+      - {x: -398, y: 10}
+      - {x: -376, y: 10}
+      - {x: -373, y: 12}
+      - {x: -373, y: 50}
+      - {x: -380, y: 52}
+    - - {x: -195, y: 48}
+      - {x: -201, y: 46}
+      - {x: -203, y: 29}
+      - {x: -203, y: 10}
+      - {x: -169, y: 10}
+      - {x: -169, y: 37}
+      - {x: -176, y: 48}
+    - - {x: -304, y: 43}
+      - {x: -304, y: 18}
+      - {x: -298, y: 11}
+      - {x: -272, y: 11}
+      - {x: -268, y: 20}
+      - {x: -268, y: 43}
+    - - {x: -454, y: 24}
+      - {x: -434, y: 12}
+      - {x: -422, y: 12}
+      - {x: -418, y: 14}
+      - {x: -418, y: 22}
+      - {x: -426, y: 40}
+      - {x: -430, y: 47}
+      - {x: -449, y: 47}
+      - {x: -454, y: 46}
+    - - {x: -353, y: 32}
+      - {x: -355, y: 29}
+      - {x: -355, y: 15}
+      - {x: -352, y: 12}
+      - {x: -343, y: 12}
+      - {x: -343, y: 31}
+      - {x: -347, y: 32}
+    - - {x: -505, y: 17}
+      - {x: -504, y: 14}
+      - {x: -465, y: 14}
+      - {x: -465, y: 24}
+      - {x: -466, y: 26}
+      - {x: -501, y: 26}
+      - {x: -505, y: 23}
+    - - {x: -82, y: 45}
+      - {x: -100, y: 45}
+      - {x: -102, y: 41}
+      - {x: -102, y: 31}
+      - {x: -94, y: 14}
+      - {x: -72, y: 14}
+      - {x: -70, y: 16}
+      - {x: -70, y: 39}
+    - - {x: -57, y: 44}
+      - {x: -60, y: 41}
+      - {x: -60, y: 19}
+      - {x: -57, y: 16}
+      - {x: -16, y: 16}
+      - {x: -13, y: 19}
+      - {x: -13, y: 40}
+      - {x: -17, y: 44}
+    - - {x: -6, y: 43}
+      - {x: -6, y: 21}
+      - {x: 0, y: 16}
+      - {x: 30, y: 16}
+      - {x: 33, y: 20}
+      - {x: 33, y: 41}
+      - {x: 32, y: 43}
+    - - {x: -254, y: 24}
+      - {x: -218, y: 24}
+      - {x: -218, y: 34}
+      - {x: -219, y: 36}
+      - {x: -250, y: 36}
+      - {x: -254, y: 35}
+    - - {x: -291, y: 48}
+      - {x: -291, y: 25}
+      - {x: -281, y: 25}
+      - {x: -281, y: 45}
+      - {x: -282, y: 48}
+    - - {x: -505, y: 29}
+      - {x: -504, y: 26}
+      - {x: -465, y: 26}
+      - {x: -465, y: 36}
+      - {x: -466, y: 38}
+      - {x: -501, y: 38}
+      - {x: -505, y: 35}
+    - - {x: -149, y: 31}
+      - {x: -147, y: 33}
+      - {x: -148, y: 33}
+      - {x: -147, y: 32}
+      - {x: -144, y: 33}
+      - {x: -145, y: 34}
+      - {x: -148, y: 31}
+      - {x: -147, y: 31}
+      - {x: -148, y: 32}
+    - - {x: -435, y: 38}
+      - {x: -436, y: 40}
+      - {x: -444, y: 40}
+      - {x: -447, y: 37}
+      - {x: -447, y: 29}
+    - - {x: -505, y: 41}
+      - {x: -504, y: 38}
+      - {x: -465, y: 38}
+      - {x: -465, y: 48}
+      - {x: -466, y: 50}
+      - {x: -501, y: 50}
+      - {x: -505, y: 47}
+    - - {x: -155, y: 99}
+      - {x: -158, y: 96}
+      - {x: -158, y: 65}
+      - {x: -147, y: 59}
+      - {x: -115, y: 59}
+      - {x: -115, y: 90}
+      - {x: -125, y: 99}
+    - - {x: -252, y: 99}
+      - {x: -252, y: 66}
+      - {x: -245, y: 60}
+      - {x: -229, y: 60}
+      - {x: -220, y: 64}
+      - {x: -220, y: 98}
+      - {x: -223, y: 99}
+    - - {x: -454, y: 75}
+      - {x: -433, y: 62}
+      - {x: -418, y: 62}
+      - {x: -418, y: 74}
+      - {x: -423, y: 96}
+      - {x: -428, y: 97}
+      - {x: -450, y: 97}
+      - {x: -454, y: 93}
+    - - {x: -376, y: 94}
+      - {x: -403, y: 94}
+      - {x: -405, y: 91}
+      - {x: -405, y: 75}
+      - {x: -404, y: 70}
+      - {x: -401, y: 64}
+      - {x: -399, y: 62}
+      - {x: -371, y: 62}
+      - {x: -369, y: 67}
+      - {x: -369, y: 92}
+    - - {x: -345, y: 82}
+      - {x: -351, y: 82}
+      - {x: -355, y: 81}
+      - {x: -355, y: 65}
+      - {x: -352, y: 62}
+      - {x: -346, y: 62}
+      - {x: -343, y: 65}
+      - {x: -343, y: 80}
+    - - {x: -341, y: 90}
+      - {x: -343, y: 86}
+      - {x: -343, y: 63}
+      - {x: -342, y: 62}
+      - {x: -331, y: 62}
+      - {x: -331, y: 89}
+      - {x: -335, y: 90}
+    - - {x: -303, y: 98}
+      - {x: -303, y: 65}
+      - {x: -300, y: 62}
+      - {x: -271, y: 62}
+      - {x: -271, y: 98}
+    - - {x: -204, y: 78}
+      - {x: -204, y: 62}
+      - {x: -188, y: 62}
+      - {x: -188, y: 78}
+    - - {x: -184, y: 78}
+      - {x: -184, y: 64}
+      - {x: -182, y: 62}
+      - {x: -170, y: 62}
+      - {x: -168, y: 63}
+      - {x: -168, y: 78}
+    - - {x: -92, y: 96}
+      - {x: -93, y: 93}
+      - {x: -93, y: 62}
+      - {x: -84, y: 62}
+      - {x: -81, y: 64}
+      - {x: -81, y: 96}
+    - - {x: -47, y: 99}
+      - {x: -54, y: 90}
+      - {x: -54, y: 72}
+      - {x: -53, y: 69}
+      - {x: -46, y: 63}
+      - {x: -29, y: 63}
+      - {x: -18, y: 67}
+      - {x: -18, y: 93}
+      - {x: -27, y: 99}
+    - - {x: 4, y: 98}
+      - {x: -4, y: 93}
+      - {x: -4, y: 73}
+      - {x: 3, y: 66}
+      - {x: 7, y: 63}
+      - {x: 22, y: 63}
+      - {x: 26, y: 64}
+      - {x: 32, y: 70}
+      - {x: 32, y: 92}
+      - {x: 29, y: 98}
+    - - {x: -495, y: 100}
+      - {x: -501, y: 100}
+      - {x: -505, y: 99}
+      - {x: -505, y: 67}
+      - {x: -502, y: 64}
+      - {x: -496, y: 64}
+      - {x: -493, y: 67}
+      - {x: -493, y: 98}
+    - - {x: -483, y: 100}
+      - {x: -489, y: 100}
+      - {x: -493, y: 99}
+      - {x: -493, y: 67}
+      - {x: -490, y: 64}
+      - {x: -484, y: 64}
+      - {x: -481, y: 67}
+      - {x: -481, y: 98}
+    - - {x: -471, y: 100}
+      - {x: -477, y: 100}
+      - {x: -481, y: 99}
+      - {x: -481, y: 67}
+      - {x: -478, y: 64}
+      - {x: -472, y: 64}
+      - {x: -469, y: 67}
+      - {x: -469, y: 98}
+    - - {x: -236, y: 75}
+      - {x: -232, y: 78}
+      - {x: -233, y: 78}
+      - {x: -238, y: 76}
+      - {x: -237, y: 75}
+    - - {x: -445, y: 81}
+      - {x: -445, y: 87}
+      - {x: -443, y: 89}
+      - {x: -435, y: 86}
+      - {x: -435, y: 81}
+      - {x: -437, y: 79}
+      - {x: -443, y: 79}
+    - - {x: -442, y: 90}
+      - {x: -446, y: 86}
+      - {x: -446, y: 82}
+      - {x: -442, y: 78}
+      - {x: -438, y: 78}
+      - {x: -434, y: 82}
+      - {x: -434, y: 86}
+      - {x: -438, y: 90}
+    - - {x: -35, y: 82}
+      - {x: -38, y: 84}
+      - {x: -37, y: 82}
+      - {x: -34, y: 82}
+      - {x: -34, y: 83}
+      - {x: -36, y: 80}
+      - {x: -35, y: 80}
+    - - {x: -148, y: 82}
+      - {x: -147, y: 83}
+      - {x: -148, y: 84}
+      - {x: -146, y: 82}
+      - {x: -144, y: 83}
+      - {x: -145, y: 84}
+      - {x: -147, y: 82}
+      - {x: -148, y: 83}
+    - - {x: -204, y: 98}
+      - {x: -204, y: 82}
+      - {x: -188, y: 82}
+      - {x: -188, y: 98}
+    - - {x: -169, y: 98}
+      - {x: -184, y: 98}
+      - {x: -184, y: 82}
+      - {x: -170, y: 82}
+      - {x: -168, y: 83}
+      - {x: -168, y: 96}
+    - - {x: -244, y: 87}
+      - {x: -244, y: 91}
+      - {x: -228, y: 91}
+      - {x: -228, y: 87}
+      - {x: -230, y: 87}
+      - {x: -230, y: 89}
+      - {x: -234, y: 93}
+      - {x: -238, y: 93}
+      - {x: -242, y: 89}
+      - {x: -241, y: 86}
+      - {x: -242, y: 87}
+    - - {x: -369, y: 136}
+      - {x: -373, y: 151}
+      - {x: -403, y: 151}
+      - {x: -404, y: 142}
+      - {x: -404, y: 109}
+      - {x: -369, y: 109}
+      - {x: -368, y: 112}
+      - {x: -368, y: 133}
+      - {x: -370, y: 133}
+    - - {x: -146, y: 149}
+      - {x: -158, y: 140}
+      - {x: -158, y: 132}
+      - {x: -153, y: 120}
+      - {x: -133, y: 109}
+      - {x: -115, y: 109}
+      - {x: -115, y: 132}
+      - {x: -124, y: 149}
+    - - {x: -297, y: 146}
+      - {x: -299, y: 141}
+      - {x: -299, y: 124}
+      - {x: -293, y: 111}
+      - {x: -280, y: 111}
+      - {x: -275, y: 123}
+      - {x: -275, y: 144}
+      - {x: -281, y: 146}
+    - - {x: -470, y: 140}
+      - {x: -477, y: 146}
+      - {x: -493, y: 146}
+      - {x: -502, y: 141}
+      - {x: -502, y: 118}
+      - {x: -499, y: 112}
+      - {x: -474, y: 112}
+      - {x: -472, y: 114}
+      - {x: -470, y: 120}
+    - - {x: -430, y: 147}
+      - {x: -452, y: 147}
+      - {x: -454, y: 139}
+      - {x: -454, y: 123}
+      - {x: -439, y: 112}
+      - {x: -420, y: 112}
+      - {x: -418, y: 113}
+      - {x: -418, y: 124}
+      - {x: -423, y: 146}
+    - - {x: -355, y: 132}
+      - {x: -355, y: 112}
+      - {x: -344, y: 112}
+      - {x: -343, y: 113}
+      - {x: -343, y: 132}
+    - - {x: -339, y: 140}
+      - {x: -343, y: 137}
+      - {x: -343, y: 115}
+      - {x: -340, y: 112}
+      - {x: -331, y: 112}
+      - {x: -331, y: 139}
+      - {x: -335, y: 140}
+    - - {x: -321, y: 148}
+      - {x: -327, y: 148}
+      - {x: -331, y: 147}
+      - {x: -331, y: 115}
+      - {x: -328, y: 112}
+      - {x: -322, y: 112}
+      - {x: -319, y: 115}
+      - {x: -319, y: 146}
+    - - {x: -246, y: 148}
+      - {x: -254, y: 139}
+      - {x: -254, y: 117}
+      - {x: -245, y: 113}
+      - {x: -223, y: 113}
+      - {x: -218, y: 119}
+      - {x: -218, y: 139}
+      - {x: -222, y: 148}
+    - - {x: -176, y: 145}
+      - {x: -195, y: 145}
+      - {x: -198, y: 144}
+      - {x: -205, y: 134}
+      - {x: -205, y: 116}
+      - {x: -204, y: 113}
+      - {x: -170, y: 113}
+      - {x: -167, y: 116}
+      - {x: -167, y: 133}
+    - - {x: -73, y: 145}
+      - {x: -84, y: 145}
+      - {x: -97, y: 144}
+      - {x: -105, y: 131}
+      - {x: -105, y: 124}
+      - {x: -95, y: 113}
+      - {x: -71, y: 113}
+      - {x: -70, y: 116}
+      - {x: -70, y: 143}
+    - - {x: -45, y: 148}
+      - {x: -54, y: 146}
+      - {x: -54, y: 121}
+      - {x: -49, y: 113}
+      - {x: -24, y: 113}
+      - {x: -18, y: 116}
+      - {x: -18, y: 140}
+      - {x: -25, y: 148}
+    - - {x: 2, y: 148}
+      - {x: -4, y: 143}
+      - {x: -4, y: 121}
+      - {x: 1, y: 113}
+      - {x: 26, y: 113}
+      - {x: 32, y: 117}
+      - {x: 32, y: 139}
+      - {x: 23, y: 148}
+    - - {x: -385, y: 119}
+      - {x: -387, y: 121}
+      - {x: -385, y: 121}
+      - {x: -387, y: 119}
+      - {x: -386, y: 117}
+      - {x: -385, y: 118}
+    - - {x: -76, y: 126}
+      - {x: -84, y: 122}
+      - {x: -85, y: 121}
+      - {x: -79, y: 119}
+    - - {x: -445, y: 132}
+      - {x: -445, y: 136}
+      - {x: -443, y: 139}
+      - {x: -437, y: 139}
+      - {x: -435, y: 136}
+      - {x: -435, y: 131}
+      - {x: -438, y: 129}
+      - {x: -442, y: 129}
+      - {x: -442, y: 130}
+    - - {x: -36, y: 131}
+      - {x: -35, y: 132}
+      - {x: -36, y: 131}
+      - {x: -36, y: 130}
+      - {x: -35, y: 130}
+    - - {x: -149, y: 131}
+      - {x: -147, y: 133}
+      - {x: -148, y: 134}
+      - {x: -146, y: 132}
+      - {x: -144, y: 133}
+      - {x: -145, y: 134}
+      - {x: -148, y: 131}
+      - {x: -147, y: 131}
+      - {x: -148, y: 132}
+    - - {x: -444, y: 138}
+      - {x: -446, y: 136}
+      - {x: -446, y: 132}
+      - {x: -444, y: 130}
+      - {x: -436, y: 130}
+      - {x: -434, y: 132}
+      - {x: -434, y: 136}
+      - {x: -436, y: 138}
+    - - {x: -487, y: 138}
+      - {x: -486, y: 138}
+      - {x: -479, y: 131}
+      - {x: -478, y: 132}
+      - {x: -493, y: 132}
+      - {x: -492, y: 132}
+    - - {x: -80, y: 137}
+      - {x: -85, y: 137}
+      - {x: -84, y: 136}
+      - {x: -78, y: 135}
+      - {x: -78, y: 136}
+    - - {x: -19, y: 192}
+      - {x: -20, y: 195}
+      - {x: -55, y: 195}
+      - {x: -55, y: 184}
+      - {x: -48, y: 165}
+      - {x: -44, y: 161}
+      - {x: -40, y: 161}
+      - {x: -34, y: 164}
+      - {x: -33, y: 161}
+      - {x: -26, y: 161}
+      - {x: -20, y: 162}
+      - {x: -19, y: 168}
+    - - {x: -353, y: 184}
+      - {x: -353, y: 162}
+      - {x: -321, y: 162}
+      - {x: -321, y: 186}
+      - {x: -322, y: 196}
+      - {x: -324, y: 197}
+      - {x: -348, y: 197}
+      - {x: -351, y: 196}
+    - - {x: -226, y: 197}
+      - {x: -246, y: 197}
+      - {x: -251, y: 194}
+      - {x: -253, y: 174}
+      - {x: -253, y: 166}
+      - {x: -250, y: 162}
+      - {x: -221, y: 162}
+      - {x: -219, y: 164}
+      - {x: -219, y: 184}
+      - {x: -220, y: 196}
+    - - {x: -203, y: 190}
+      - {x: -208, y: 181}
+      - {x: -208, y: 164}
+      - {x: -206, y: 162}
+      - {x: -169, y: 162}
+      - {x: -168, y: 164}
+      - {x: -168, y: 186}
+      - {x: -178, y: 190}
+    - - {x: -123, y: 197}
+      - {x: -151, y: 197}
+      - {x: -154, y: 193}
+      - {x: -154, y: 171}
+      - {x: -148, y: 162}
+      - {x: -126, y: 162}
+      - {x: -118, y: 173}
+      - {x: -118, y: 187}
+    - - {x: -475, y: 198}
+      - {x: -501, y: 198}
+      - {x: -504, y: 193}
+      - {x: -504, y: 167}
+      - {x: -493, y: 163}
+      - {x: -475, y: 163}
+      - {x: -469, y: 169}
+      - {x: -468, y: 174}
+      - {x: -468, y: 188}
+    - - {x: -453, y: 174}
+      - {x: -446, y: 163}
+      - {x: -433, y: 163}
+      - {x: -421, y: 172}
+      - {x: -421, y: 185}
+      - {x: -429, y: 200}
+      - {x: -443, y: 200}
+      - {x: -453, y: 187}
+    - - {x: -277, y: 195}
+      - {x: -293, y: 195}
+      - {x: -303, y: 191}
+      - {x: -303, y: 169}
+      - {x: -298, y: 163}
+      - {x: -269, y: 163}
+      - {x: -268, y: 166}
+      - {x: -268, y: 187}
+      - {x: -273, y: 193}
+    - - {x: -102, y: 195}
+      - {x: -102, y: 163}
+      - {x: -77, y: 163}
+      - {x: -67, y: 175}
+      - {x: -67, y: 181}
+      - {x: -75, y: 195}
+    - - {x: -8, y: 166}
+      - {x: 34, y: 166}
+      - {x: 34, y: 194}
+      - {x: -3, y: 194}
+      - {x: -8, y: 192}
+    - - {x: -388, y: 192}
+      - {x: -405, y: 175}
+      - {x: -405, y: 172}
+      - {x: -402, y: 169}
+      - {x: -370, y: 169}
+      - {x: -369, y: 172}
+      - {x: -369, y: 178}
+      - {x: -386, y: 192}
+    - - {x: -94, y: 172}
+      - {x: -93, y: 171}
+      - {x: -87, y: 171}
+      - {x: -88, y: 172}
+    - - {x: -141, y: 178}
+      - {x: -141, y: 182}
+      - {x: -138, y: 185}
+      - {x: -134, y: 185}
+      - {x: -131, y: 182}
+      - {x: -131, y: 178}
+      - {x: -133, y: 176}
+      - {x: -138, y: 175}
+      - {x: -138, y: 176}
+    - - {x: -141, y: 183}
+      - {x: -141, y: 176}
+      - {x: -139, y: 174}
+      - {x: -135, y: 174}
+      - {x: -131, y: 176}
+      - {x: -130, y: 181}
+      - {x: -133, y: 185}
+      - {x: -139, y: 185}
+    - - {x: -234, y: 185}
+      - {x: -232, y: 184}
+      - {x: -232, y: 185}
+      - {x: -233, y: 184}
+      - {x: -233, y: 185}
+    - - {x: -88, y: 186}
+      - {x: -87, y: 187}
+      - {x: -92, y: 187}
+      - {x: -94, y: 185}
+      - {x: -93, y: 185}
+    - - {x: -338, y: 212}
+      - {x: -338, y: 228}
+      - {x: -354, y: 228}
+      - {x: -354, y: 212}
+    - - {x: -334, y: 228}
+      - {x: -334, y: 212}
+      - {x: -318, y: 212}
+      - {x: -318, y: 228}
+    - - {x: -296, y: 247}
+      - {x: -306, y: 236}
+      - {x: -306, y: 228}
+      - {x: -294, y: 212}
+      - {x: -265, y: 212}
+      - {x: -265, y: 247}
+    - - {x: -234, y: 215}
+      - {x: -222, y: 220}
+      - {x: -222, y: 246}
+      - {x: -224, y: 247}
+      - {x: -245, y: 247}
+      - {x: -253, y: 229}
+      - {x: -253, y: 217}
+      - {x: -250, y: 212}
+      - {x: -241, y: 212}
+      - {x: -238, y: 216}
+      - {x: -237, y: 219}
+      - {x: -237, y: 222}
+    - - {x: -202, y: 248}
+      - {x: -204, y: 245}
+      - {x: -204, y: 215}
+      - {x: -203, y: 212}
+      - {x: -171, y: 212}
+      - {x: -168, y: 213}
+      - {x: -168, y: 248}
+    - - {x: -105, y: 232}
+      - {x: -105, y: 212}
+      - {x: -69, y: 212}
+      - {x: -69, y: 232}
+    - - {x: -500, y: 249}
+      - {x: -504, y: 239}
+      - {x: -504, y: 218}
+      - {x: -496, y: 213}
+      - {x: -475, y: 213}
+      - {x: -468, y: 222}
+      - {x: -468, y: 243}
+      - {x: -475, y: 249}
+    - - {x: -137, y: 248}
+      - {x: -154, y: 235}
+      - {x: -154, y: 223}
+      - {x: -151, y: 213}
+      - {x: -123, y: 213}
+      - {x: -118, y: 220}
+      - {x: -118, y: 231}
+      - {x: -131, y: 248}
+    - - {x: -402, y: 223}
+      - {x: -399, y: 220}
+      - {x: -386, y: 214}
+      - {x: -379, y: 214}
+      - {x: -370, y: 219}
+      - {x: -370, y: 237}
+      - {x: -372, y: 245}
+      - {x: -379, y: 246}
+      - {x: -402, y: 246}
+    - - {x: -55, y: 246}
+      - {x: -55, y: 227}
+      - {x: -47, y: 214}
+      - {x: -36, y: 214}
+      - {x: -19, y: 230}
+      - {x: -19, y: 246}
+    - - {x: -443, y: 247}
+      - {x: -455, y: 232}
+      - {x: -455, y: 230}
+      - {x: -440, y: 215}
+      - {x: -433, y: 215}
+      - {x: -418, y: 223}
+      - {x: -418, y: 239}
+      - {x: -435, y: 247}
+    - - {x: -6, y: 244}
+      - {x: -8, y: 242}
+      - {x: -8, y: 216}
+      - {x: 34, y: 216}
+      - {x: 34, y: 244}
+    - - {x: -185, y: 222}
+      - {x: -187, y: 224}
+      - {x: -185, y: 224}
+      - {x: -187, y: 222}
+      - {x: -186, y: 220}
+      - {x: -185, y: 221}
+    - - {x: -86, y: 247}
+      - {x: -88, y: 247}
+      - {x: -97, y: 238}
+      - {x: -97, y: 232}
+      - {x: -93, y: 224}
+      - {x: -81, y: 224}
+      - {x: -77, y: 231}
+      - {x: -77, y: 238}
+    - - {x: -236, y: 234}
+      - {x: -232, y: 234}
+      - {x: -233, y: 234}
+      - {x: -238, y: 230}
+      - {x: -236, y: 229}
+    - - {x: -484, y: 233}
+      - {x: -487, y: 236}
+      - {x: -489, y: 235}
+      - {x: -485, y: 232}
+      - {x: -484, y: 232}
+    - - {x: -354, y: 248}
+      - {x: -354, y: 233}
+      - {x: -353, y: 232}
+      - {x: -338, y: 232}
+      - {x: -338, y: 248}
+    - - {x: -333, y: 248}
+      - {x: -334, y: 246}
+      - {x: -334, y: 234}
+      - {x: -333, y: 232}
+      - {x: -318, y: 232}
+      - {x: -318, y: 248}
+    - - {x: -191, y: 239}
+      - {x: -181, y: 239}
+      - {x: -181, y: 237}
+      - {x: -191, y: 237}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sheet_white1x_117: -1438793171
+      sheet_white1x_125: -841792593
+      sheet_white1x_62: 1941695663
+      sheet_white1x_83: -1656187173
+      sheet_white1x_89: -2014411924
+      sheet_white1x_63: 2033996616
+      sheet_white1x_6: -1924596503
+      sheet_white1x_3: -655883749
+      sheet_white1x_86: 890805188
+      sheet_white1x_52: 1179558112
+      sheet_white1x_96: 740826982
+      sheet_white1x_5: 584163293
+      sheet_white1x_73: -532519774
+      sheet_white1x_95: 1907724598
+      sheet_white1x_141: 537929975
+      sheet_white1x_120: 618365058
+      sheet_white1x_75: -761152753
+      sheet_white1x_115: -1643044848
+      sheet_white1x_101: -632969377
+      sheet_white1x_142: -894297903
+      sheet_white1x_111: -2022759619
+      sheet_white1x_70: 1642025903
+      sheet_white1x_49: -1663870838
+      sheet_white1x_24: -801834715
+      sheet_white1x_82: -429332242
+      sheet_white1x_100: -1777353997
+      sheet_white1x_8: 2109183703
+      sheet_white1x_46: 10399250
+      sheet_white1x_22: 1917913587
+      sheet_white1x_56: -1167326723
+      sheet_white1x_30: 284975528
+      sheet_white1x_33: -1544935081
+      sheet_white1x_7: -2099245075
+      sheet_white1x_139: 904480211
+      sheet_white1x_37: 403576572
+      sheet_white1x_0: -2101500671
+      sheet_white1x_112: -807528862
+      sheet_white1x_21: 1261567305
+      sheet_white1x_50: 1685793796
+      sheet_white1x_48: -1372159186
+      sheet_white1x_17: 1664269221
+      sheet_white1x_91: 1919340042
+      sheet_white1x_88: 2049460060
+      sheet_white1x_34: 490892883
+      sheet_white1x_18: 150569067
+      sheet_white1x_23: -1208259648
+      sheet_white1x_109: -2039419064
+      sheet_white1x_32: -2123429971
+      sheet_white1x_12: -1415015394
+      sheet_white1x_106: -253546955
+      sheet_white1x_55: -784356010
+      sheet_white1x_45: 1001983471
+      sheet_white1x_103: 1149670637
+      sheet_white1x_93: -1754880292
+      sheet_white1x_41: -1641236478
+      sheet_white1x_110: -816153458
+      sheet_white1x_104: -222972236
+      sheet_white1x_35: -909150690
+      sheet_white1x_69: 587160466
+      sheet_white1x_72: 1012653862
+      sheet_white1x_14: -268608296
+      sheet_white1x_122: 669732979
+      sheet_white1x_58: -1331220742
+      sheet_white1x_40: -714220013
+      sheet_white1x_74: 1737491035
+      sheet_white1x_13: 142197536
+      sheet_white1x_144: -1265813172
+      infowhite: -1006734661
+      sheet_white1x_54: -1143621564
+      sheet_white1x_68: -267673477
+      sheet_white1x_60: 1486225670
+      sheet_white1x_36: 880254105
+      sheet_white1x_43: 193729367
+      sheet_white1x_53: -30758972
+      sheet_white1x_9: 829522289
+      sheet_white1x_118: -801616111
+      sheet_white1x_124: 687969498
+      sheet_white1x_66: -42814984
+      sheet_white1x_137: 312319495
+      sheet_white1x_135: 1075509798
+      sheet_white1x_90: -897170264
+      sheet_white1x_98: -1866429184
+      sheet_white1x_128: -448527372
+      sheet_white1x_57: -51574625
+      sheet_white1x_130: -62200089
+      sheet_white1x_119: -77041125
+      sheet_white1x_129: 1213294011
+      sheet_white1x_16: -424845774
+      sheet_white1x_39: -392352383
+      sheet_white1x_51: -2066878026
+      sheet_white1x_2: 732669147
+      sheet_white1x_80: 456129829
+      sheet_white1x_71: 2002054557
+      sheet_white1x_19: 833229147
+      sheet_white1x_31: 693143688
+      sheet_white1x_25: 471657720
+      sheet_white1x_105: -1270040908
+      sheet_white1x_67: -620415832
+      sheet_white1x_97: -386532020
+      sheet_white1x_28: -1085534477
+      sheet_white1x_79: -1203608615
+      sheet_white1x_107: -1210166328
+      sheet_white1x_145: 2020620775
+      sheet_white1x_133: 1133437918
+      sheet_white1x_140: -1996492284
+      sheet_white1x_114: -942374501
+      sheet_white1x_131: -890915125
+      sheet_white1x_99: 273934288
+      sheet_white1x_136: -88271782
+      sheet_white1x_4: -1178750782
+      sheet_white1x_10: -29389460
+      sheet_white1x_65: 605221839
+      sheet_white1x_143: 2083209866
+      sheet_white1x_1: 681081934
+      sheet_white1x_87: -1134456778
+      sheet_white1x_26: -794802880
+      sheet_white1x_123: -682257215
+      sheet_white1x_27: -763082462
+      sheet_white1x_127: 1450942306
+      sheet_white1x_11: 1270794188
+      sheet_white1x_76: 1332517465
+      sheet_white1x_134: -1619174182
+      sheet_white1x_126: 1133039743
+      sheet_white1x_20: -1716118660
+      sheet_white1x_78: -912877600
+      sheet_white1x_15: 154032840
+      sheet_white1x_64: 1559243313
+      sheet_white1x_38: 1032833871
+      sheet_white1x_108: 2090619799
+      sheet_white1x_42: -1482976409
+      sheet_white1x_47: 1584284326
+      sheet_white1x_84: 1419192093
+      sheet_white1x_138: -1325248657
+      sheet_white1x_92: 55993887
+      sheet_white1x_94: 363191654
+      sheet_white1x_113: 592877380
+      sheet_white1x_81: -422425600
+      sheet_white1x_102: 636789026
+      sheet_white1x_85: -683214649
+      sheet_white1x_61: 1931767547
+      sheet_white1x_29: 2126072617
+      sheet_white1x_121: -568671823
+      sheet_white1x_77: -1231733521
+      sheet_white1x_44: -1560540138
+      sheet_white1x_116: 1540319833
+      sheet_white1x_59: -1642062706
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

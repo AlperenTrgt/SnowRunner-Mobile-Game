@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4c2e93236c592a84485f68da90f900a9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DS Snowfall
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 83f678cd326d30a4bbba248af4b4fef6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
